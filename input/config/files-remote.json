@@ -1,0 +1,562 @@
+[
+    {
+        "path": "1es-jornades-internacionals-dantropologia-del-conflicte-urba",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/1es-jornades-internacionals-dantropologia-del-conflicte-urba/index.html",
+        "type": "file",
+        "md5": "4779b51c15df65ccb9ec9a6f820cdf16"
+    },
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "403807e6dce1efcea5626f6c7fe35908"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "12ee911476449080c348c99621b66def"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "366561c4c503c68e3af3389ac4d7fb8e"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "a7655fab7c2d1c7f47e5f4acd035956a"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e0c4d53c21e83015f166f4b853f8ade4"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "f47c11534595205f20935f0db2a62a85"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "c02a714aae85e9bb30879a798f458527"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "0c70735af58190b563b2940b7a07007a"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "0bb1f41e2e459d23628833c37d8532f0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "25970b4dc9b91773247e995cb3d0318a"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/oacu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/oacu/index.html",
+        "type": "file",
+        "md5": "aad57830bc8ef0e8f381e7e17289cca8"
+    },
+    {
+        "path": "authors/oacu/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/oacu/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/oacu/page/2/index.html",
+        "type": "file",
+        "md5": "e878d56774d4c016d588e29d2686591b"
+    },
+    {
+        "path": "contacte",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/contacte/index.html",
+        "type": "file",
+        "md5": "3c1e68eb37e5e9374319edb9e6726cab"
+    },
+    {
+        "path": "declaracion-de-apoyo-a-jaime-palomera-alpha-mikeliunas-y-fran-ortega",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/declaracion-de-apoyo-a-jaime-palomera-alpha-mikeliunas-y-fran-ortega/index.html",
+        "type": "file",
+        "md5": "67902794e6da92667e97ca24f93e469b"
+    },
+    {
+        "path": "el-lobo-y-las-ovejas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/el-lobo-y-las-ovejas/index.html",
+        "type": "file",
+        "md5": "650439d8b634cb653c83fdd68de65233"
+    },
+    {
+        "path": "historia",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/historia/index.html",
+        "type": "file",
+        "md5": "00b937c650560d6db2763777733aa2c1"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "4e88a1e2c4126deb7a5472d9c615a29e"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/pexels-photo-417192.jpeg",
+        "type": "file",
+        "md5": "388822f48753ec4954149165be8b9820"
+    },
+    {
+        "path": "/media/files/policia.jpg",
+        "type": "file",
+        "md5": "4a39de0efba72183d5aeea36200a64d5"
+    },
+    {
+        "path": "/media/files/venus_detalle.jpg",
+        "type": "file",
+        "md5": "dd98592b6f8e5ceeab93121412d834d7"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/imatge.jpg",
+        "type": "file",
+        "md5": "ab63b57bff34e0da8e72d8e31b904be4"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/imatge-2xl.jpg",
+        "type": "file",
+        "md5": "d73498b8f5887281b5d6eec20d569735"
+    },
+    {
+        "path": "/media/posts/4/responsive/imatge-lg.jpg",
+        "type": "file",
+        "md5": "d73498b8f5887281b5d6eec20d569735"
+    },
+    {
+        "path": "/media/posts/4/responsive/imatge-md.jpg",
+        "type": "file",
+        "md5": "d73498b8f5887281b5d6eec20d569735"
+    },
+    {
+        "path": "/media/posts/4/responsive/imatge-sm.jpg",
+        "type": "file",
+        "md5": "d73498b8f5887281b5d6eec20d569735"
+    },
+    {
+        "path": "/media/posts/4/responsive/imatge-xl.jpg",
+        "type": "file",
+        "md5": "d73498b8f5887281b5d6eec20d569735"
+    },
+    {
+        "path": "/media/posts/4/responsive/imatge-xs.jpg",
+        "type": "file",
+        "md5": "41a801510aafc9e146d8b0db18cdbd9f"
+    },
+    {
+        "path": "media/posts/8",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/OACU_Seminari2023_03.png",
+        "type": "file",
+        "md5": "0eb142930f534053f9ca97e2fc48b8dc"
+    },
+    {
+        "path": "media/posts/8/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/8/responsive/OACU_Seminari2023_03-2xl.png",
+        "type": "file",
+        "md5": "1ee66e54d3bb2a66f089e586c6d9c799"
+    },
+    {
+        "path": "/media/posts/8/responsive/OACU_Seminari2023_03-lg.png",
+        "type": "file",
+        "md5": "ea0bc3e9dd30951381e7e26d16a10e7e"
+    },
+    {
+        "path": "/media/posts/8/responsive/OACU_Seminari2023_03-md.png",
+        "type": "file",
+        "md5": "1b7d1a4f05e3787e56eaca437b62ae16"
+    },
+    {
+        "path": "/media/posts/8/responsive/OACU_Seminari2023_03-sm.png",
+        "type": "file",
+        "md5": "b1b5131e0ecd3aae673cafa04019b99d"
+    },
+    {
+        "path": "/media/posts/8/responsive/OACU_Seminari2023_03-xl.png",
+        "type": "file",
+        "md5": "43a483338ae9b4714157d8c506858a68"
+    },
+    {
+        "path": "/media/posts/8/responsive/OACU_Seminari2023_03-xs.png",
+        "type": "file",
+        "md5": "723c87dc8fa7887efdcf45267150a3d4"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/7ecegw29.jpg",
+        "type": "file",
+        "md5": "bfe696a65d7a511dd28c5d2c836ff33b"
+    },
+    {
+        "path": "/media/website/imatge.jpg",
+        "type": "file",
+        "md5": "ab63b57bff34e0da8e72d8e31b904be4"
+    },
+    {
+        "path": "/media/website/logo-2.webp",
+        "type": "file",
+        "md5": "7cf8e9f041a6a093c0a8cf84aba216e6"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/7ecegw29-2xl.jpg",
+        "type": "file",
+        "md5": "244fa92c67104bfdf9820d05e4249f55"
+    },
+    {
+        "path": "/media/website/responsive/7ecegw29-lg.jpg",
+        "type": "file",
+        "md5": "244fa92c67104bfdf9820d05e4249f55"
+    },
+    {
+        "path": "/media/website/responsive/7ecegw29-md.jpg",
+        "type": "file",
+        "md5": "244fa92c67104bfdf9820d05e4249f55"
+    },
+    {
+        "path": "/media/website/responsive/7ecegw29-sm.jpg",
+        "type": "file",
+        "md5": "ba1e491b22d0a380710502cf43c9a82b"
+    },
+    {
+        "path": "/media/website/responsive/7ecegw29-xl.jpg",
+        "type": "file",
+        "md5": "244fa92c67104bfdf9820d05e4249f55"
+    },
+    {
+        "path": "/media/website/responsive/7ecegw29-xs.jpg",
+        "type": "file",
+        "md5": "f9eda946e203437215ca90a51c3cb70d"
+    },
+    {
+        "path": "/media/website/responsive/imatge-2xl.jpg",
+        "type": "file",
+        "md5": "d73498b8f5887281b5d6eec20d569735"
+    },
+    {
+        "path": "/media/website/responsive/imatge-lg.jpg",
+        "type": "file",
+        "md5": "d73498b8f5887281b5d6eec20d569735"
+    },
+    {
+        "path": "/media/website/responsive/imatge-md.jpg",
+        "type": "file",
+        "md5": "d73498b8f5887281b5d6eec20d569735"
+    },
+    {
+        "path": "/media/website/responsive/imatge-sm.jpg",
+        "type": "file",
+        "md5": "d73498b8f5887281b5d6eec20d569735"
+    },
+    {
+        "path": "/media/website/responsive/imatge-xl.jpg",
+        "type": "file",
+        "md5": "d73498b8f5887281b5d6eec20d569735"
+    },
+    {
+        "path": "/media/website/responsive/imatge-xs.jpg",
+        "type": "file",
+        "md5": "294e78c448b5e26d8e6455485a2958c3"
+    },
+    {
+        "path": "/media/website/responsive/logo-2-2xl.webp",
+        "type": "file",
+        "md5": "7131643f738fd8ca64ba36ee646af057"
+    },
+    {
+        "path": "/media/website/responsive/logo-2-lg.webp",
+        "type": "file",
+        "md5": "7131643f738fd8ca64ba36ee646af057"
+    },
+    {
+        "path": "/media/website/responsive/logo-2-md.webp",
+        "type": "file",
+        "md5": "5f571c556f47f508d99de53277b2c4a9"
+    },
+    {
+        "path": "/media/website/responsive/logo-2-sm.webp",
+        "type": "file",
+        "md5": "d74658c190e9fd289c2a53d791b5762c"
+    },
+    {
+        "path": "/media/website/responsive/logo-2-xl.webp",
+        "type": "file",
+        "md5": "7131643f738fd8ca64ba36ee646af057"
+    },
+    {
+        "path": "/media/website/responsive/logo-2-xs.webp",
+        "type": "file",
+        "md5": "5056e1cc774f9f6f4f754edbdd79a49a"
+    },
+    {
+        "path": "membres",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/membres/index.html",
+        "type": "file",
+        "md5": "64448d0c54f90364cb90bfb74c160d33"
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "c150ddb1d1390ddc1fb8db17ad3bd068"
+    },
+    {
+        "path": "pexels-photo-417192.jpeg",
+        "type": "file",
+        "md5": "388822f48753ec4954149165be8b9820"
+    },
+    {
+        "path": "policia.jpg",
+        "type": "file",
+        "md5": "4a39de0efba72183d5aeea36200a64d5"
+    },
+    {
+        "path": "properes-activitats-oacu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/properes-activitats-oacu/index.html",
+        "type": "file",
+        "md5": "0943cffeaa9e63ad2c69c0841523b449"
+    },
+    {
+        "path": "publicacions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/publicacions/index.html",
+        "type": "file",
+        "md5": "c9469fb71c9ccce31ae23ac3ee7b08a9"
+    },
+    {
+        "path": "recerca",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/recerca/index.html",
+        "type": "file",
+        "md5": "7833387fd65162bad418caa2a015cda3"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "9152d7f1724ed8fbcd2e0c87029f193c"
+    },
+    {
+        "path": "seminari-or-mucha-clase-y-poco-genero",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/seminari-or-mucha-clase-y-poco-genero/index.html",
+        "type": "file",
+        "md5": "ee0f526d870460f62a53d6093c206719"
+    },
+    {
+        "path": "sostenibilidad-jose-mansilla",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/sostenibilidad-jose-mansilla/index.html",
+        "type": "file",
+        "md5": "6ee987069c9c68554fad30f22f147f31"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tags/blog-oacu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/blog-oacu/index.html",
+        "type": "file",
+        "md5": "73407bf81302f961c8276303656ffa70"
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "c41160b2c7b13c12812aec57b6db4c01"
+    },
+    {
+        "path": "tags/jornades-internacionals-oacu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/jornades-internacionals-oacu/index.html",
+        "type": "file",
+        "md5": "10382571d19a06d5af48b08ac023d4cb"
+    },
+    {
+        "path": "tags/lexic-ciutadanista",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/lexic-ciutadanista/index.html",
+        "type": "file",
+        "md5": "9f9c6be3696035da69f9c23c837838a4"
+    },
+    {
+        "path": "tags/seminari-de-recerca",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/seminari-de-recerca/index.html",
+        "type": "file",
+        "md5": "84ad52b87c8cf946011a7249e03badf8"
+    },
+    {
+        "path": "venus_detalle.jpg",
+        "type": "file",
+        "md5": "dd98592b6f8e5ceeab93121412d834d7"
+    }
+]

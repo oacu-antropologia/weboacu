@@ -1,0 +1,277 @@
+[
+    {
+        "name": "Menu_principal",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1680798827033,
+                "label": "Inici",
+                "title": "",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1680796574482,
+                "label": "L'OACU",
+                "title": "",
+                "type": "separator",
+                "target": "_self",
+                "rel": "",
+                "link": "",
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1680796606342,
+                        "label": "Història",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 1,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1680796623954,
+                        "label": "Membres",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 2,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 16809525752891,
+                "label": "Recerca",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 13,
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1680970518882,
+                        "label": "Objectius",
+                        "title": "",
+                        "type": "internal",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "recerca/index.html#mcetoc_1gtgq8t7u1l",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 16809705222091,
+                        "label": "Línies de recerca",
+                        "title": "",
+                        "type": "internal",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "recerca/index.html#mcetoc_1gtgq8t7u1m",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 16809705234991,
+                        "label": "Projectes",
+                        "title": "",
+                        "type": "internal",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "recerca/index.html#mcetoc_1gtgq8t7u1n",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 16807981099781,
+                "label": "Activitats",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 8,
+                "cssClass": "",
+                "isHidden": false,
+                "items": [
+                    {
+                        "id": 1680950974539,
+                        "label": "Seminaris",
+                        "title": "",
+                        "type": "separator",
+                        "target": "_self",
+                        "rel": "",
+                        "link": "",
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": [
+                            {
+                                "id": 1680950987586,
+                                "label": "Seminari de recerca",
+                                "title": "",
+                                "type": "tag",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 1,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1680951515766,
+                                "label": "Incivismes",
+                                "title": "",
+                                "type": "tag",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 5,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1680951497966,
+                                "label": "Lèxic Ciutadanista",
+                                "title": "",
+                                "type": "tag",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 4,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            },
+                            {
+                                "id": 1680951461688,
+                                "label": "Espai i...",
+                                "title": "",
+                                "type": "tag",
+                                "target": "_self",
+                                "rel": "",
+                                "link": 3,
+                                "cssClass": "",
+                                "isHidden": false,
+                                "items": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1680951608044,
+                        "label": "Jornades Internacionals OACU",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 6,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 1680952767644,
+                        "label": "Jornades",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 82,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 16809527707681,
+                        "label": "Docència",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 81,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 16809527790801,
+                        "label": "Tallers",
+                        "title": "",
+                        "type": "post",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 80,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    },
+                    {
+                        "id": 16809527861121,
+                        "label": "Xerrades",
+                        "title": "",
+                        "type": "tag",
+                        "target": "_self",
+                        "rel": "",
+                        "link": 10,
+                        "cssClass": "",
+                        "isHidden": false,
+                        "items": []
+                    }
+                ]
+            },
+            {
+                "id": 16807981301541,
+                "label": "Publicacions",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 12,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 16809526575731,
+                "label": "Blog",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 2,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 16807981394051,
+                "label": "Contacte",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 4,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]

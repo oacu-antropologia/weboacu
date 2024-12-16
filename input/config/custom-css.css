@@ -1,0 +1,94 @@
+  .hero{
+    height: 1640px;
+  }
+
+  .post .hero{
+  height: var(--hero-height);
+  }
+
+  .page .hero{
+  height: var(--hero-height);
+  }
+
+  .hero__content{
+    bottom: 27px;
+  }
+
+  .post .hero__content{
+    bottom: 10%;
+  }
+
+  .hero .wrapper {
+      padding: 0px;
+      margin: 0px;
+      width: 100%;
+      max-width: none;
+  }
+
+  .post .wrapper{
+      -webkit-box-sizing: content-box;
+      box-sizing: content-box;
+      max-width: var(--entry-width);
+      margin: 0 auto;
+      padding: 0 var(--page-margin);
+      padding-top: 70px;
+  }
+
+  .page .wrapper{
+      -webkit-box-sizing: content-box;
+      box-sizing: content-box;
+      max-width: var(--entry-width);
+      margin: 0 auto;
+      padding: 0 var(--page-margin);
+      padding-top: 70px;
+  }
+
+  .blocs{
+  width: 100%;
+  height: 500px;
+  margin-bottom: -30px;
+  }
+
+  .text_portada{
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  @media only screen and (max-width: 600px) {
+  .text_portada {
+      width: 95%;
+  }
+}
+
+  .bloc1{
+    background: url('../../media/files/bloc1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 52%);
+    height: 660px;
+  }
+
+  .bloc2{
+    background: url('../../media/files/policia.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 52%);
+  }
+
+  .bloc3{
+    background: url('../../media/files/venus_detalle.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 52%);
+  }
+
+.boto{
+  border: 2px solid white;
+  width: 250px;
+}
