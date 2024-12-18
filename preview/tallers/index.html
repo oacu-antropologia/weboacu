@@ -70,7 +70,8 @@ button {
             blueskyShareButton.addEventListener('click', function(e) {
                 e.preventDefault();
                 let imageUrl = firstImage.src;  // The first image URL
-                let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}&imageUris=${encodeURIComponent(imageUrl)}|450|450`;
+    			let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}%0A${encodeURIComponent(imageUrl)}`;
+          //Per ara no funciona així: let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}&imageUris=${encodeURIComponent(imageUrl)}|450|450`;
                 window.open(blueskyUrl, '_blank');
             });
 
@@ -101,7 +102,7 @@ button {
 
             blueskyShareButton.addEventListener('click', function(e) {
                 e.preventDefault();
-                let blueskyUrl = `/intent/compose?text=${encodeURIComponent(pageTitle)}&imageUris=${encodeURIComponent(pageUrl)}`;
+                let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}%0A${encodeURIComponent(pageUrl)}`;
                 window.open(blueskyUrl, '_blank');
             });
 
