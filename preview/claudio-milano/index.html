@@ -66,7 +66,7 @@ button {
             blueskyShareButton.addEventListener('click', function(e) {
                 e.preventDefault();
                 let imageUrl = firstImage.src;  // The first image URL
-                let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}&imageUris={encodeURIComponent(imageUrl)}|450|450`;
+                let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}&imageUris=${encodeURIComponent(imageUrl)}|450|450`;
                 window.open(blueskyUrl, '_blank');
             });
 
@@ -91,6 +91,17 @@ button {
                 e.preventDefault();
                 alert('Instagram sharing requires the mobile app. Please open Instagram and share the post manually.');
             });
+        } else {
+            // If no image is found inside .wrapper.post__entry, use the page URL for Bluesky
+            blueskyShareButton.style.display = 'inline-block';  // Show Bluesky button even if no image
+
+            blueskyShareButton.addEventListener('click', function(e) {
+                e.preventDefault();
+                let blueskyUrl = `/intent/compose?text=${encodeURIComponent(pageTitle)}&imageUris=${encodeURIComponent(pageUrl)}`;
+                window.open(blueskyUrl, '_blank');
+            });
+
+            // If no image, we still show the other buttons (Facebook, LinkedIn, Instagram) without changes.
         }
     });</script></div></div></main><footer class="footer"><div class="footer__social"><a href="http://www.facebook.com/OacuObservatoriAntropologiaConflicteUrba" aria-label="Facebook"><svg><use xlink:href="file:///C:/Users/mtome/Documents/MEGAsync/Informatica/Publii/Webs guardades/weboacu/preview/assets/svg/svg-map.svg#facebook"/></svg> </a><a href="https://twitter.com/OACU_UB" aria-label="Twitter"><svg><use xlink:href="file:///C:/Users/mtome/Documents/MEGAsync/Informatica/Publii/Webs guardades/weboacu/preview/assets/svg/svg-map.svg#twitter"/></svg> </a><a href="https://www.youtube.com/channel/UCiO8d_4v5rgRHazz6jqUmCg" aria-label="Youtube"><svg><use xlink:href="file:///C:/Users/mtome/Documents/MEGAsync/Informatica/Publii/Webs guardades/weboacu/preview/assets/svg/svg-map.svg#youtube"/></svg></a></div><div class="footer__copyright"><p>Observatori d'Antropologia del Conflicte Urbà</p><p><span style="color: #95a5a6;"><a href="mailto:oacu.info@gmail.com" target="_blank" rel="noopener" style="color: #95a5a6;">oacu.info@gmail.com</a></span></p><p>***</p><p><a href="https://cultura.gencat.cat/ca/departament/estructura_i_adreces/organismes/dgcpt/02_patrimoni_etnologic/02_observatori/" target="_Blank"><img style="height: 90px; padding-right: 20px;" src="/OPEI.jpg"><img style="width: 200px; padding-top: 25px;" src="/cultura.png"></a></p></div><button onclick="backToTopFunction()" id="backToTop" class="footer__bttop" aria-label="Back to top" title="Back to top"><svg><use xlink:href="file:///C:/Users/mtome/Documents/MEGAsync/Informatica/Publii/Webs guardades/weboacu/preview/assets/svg/svg-map.svg#toparrow"/></svg></button></footer></div><script defer="defer" src="file:///C:\Users\mtome\Documents\MEGAsync\Informatica\Publii\Webs guardades\weboacu\preview/assets/js/scripts.min.js?v=f47c11534595205f20935f0db2a62a85"></script><script>window.publiiThemeMenuConfig={mobileMenuMode:'sidebar',animationSpeed:300,submenuWidth: 'auto',doubleClickTime:500,mobileMenuExpandableSubmenus:true,relatedContainerForOverlayMenuSelector:'.top'};</script><script>var images = document.querySelectorAll('img[loading]');
         for (var i = 0; i < images.length; i++) {
