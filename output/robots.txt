@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://observatoriconflicteurba.org/sitemap.xml
+Sitemap: https://oacu-antropologia.github.io/weboacu/sitemap.xml

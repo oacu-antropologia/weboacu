@@ -7,7 +7,7 @@
         "color": 1,
         "icon": "web-radio"
     },
-    "domain": "https://observatoriconflicteurba.org",
+    "domain": "https://oacu-antropologia.github.io/weboacu",
     "language": "Ca",
     "spellchecking": false,
     "advanced": {
@@ -242,5 +242,5 @@
         }
     },
     "theme": "simple",
-    "syncDate": 1734515177019
+    "syncDate": 1734515441826
 }
