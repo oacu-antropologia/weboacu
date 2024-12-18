@@ -70,7 +70,7 @@ button {
             blueskyShareButton.addEventListener('click', function(e) {
                 e.preventDefault();
                 let imageUrl = firstImage.src;  // The first image URL
-                let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}%0A${encodeURIComponent(imageUrl)}`;
+                let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}&imageUris={encodeURIComponent(imageUrl)}|450|450`;
                 window.open(blueskyUrl, '_blank');
             });
 
@@ -78,7 +78,7 @@ button {
             facebookShareButton.addEventListener('click', function(e) {
                 e.preventDefault();
                 let imageUrl = firstImage.src;  // The first image URL
-                let facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}&quote=${encodeURIComponent(pageTitle)}&imageUris={encodeURIComponent(imageUrl)}`;
+                let facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}&quote=${encodeURIComponent(pageTitle)}%0A${encodeURIComponent(imageUrl)}`;
                 window.open(facebookUrl, '_blank');
             });
 

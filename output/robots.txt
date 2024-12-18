@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://oacu-antropologia.github.io/weboacu/sitemap.xml
