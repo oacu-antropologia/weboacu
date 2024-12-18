@@ -70,8 +70,8 @@
         "fontBoldWeight": "700",
         "fontHeadignsWeight": "603",
         "fontHeadingsTransform": "none",
-        "shareFacebook": true,
-        "shareTwitter": true,
+        "shareFacebook": false,
+        "shareTwitter": false,
         "shareTwitterName": "OACU_UB",
         "sharePinterest": false,
         "shareMix": false,
@@ -120,6 +120,7 @@
         "displayRelatedPosts": "0",
         "displayComments": 0
     },
+    "pageConfig": {},
     "tagConfig": {
         "displayFeaturedImage": 1,
         "displayPostCounter": "0",
