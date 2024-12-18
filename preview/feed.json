@@ -11,20 +11,6 @@
     },
     "items": [
         {
-            "id": "file:///C:\Users\mtome\Documents\MEGAsync\Informatica\Publii\Webs guardades\weboacu\preview/test-2/index.html",
-            "url": "file:///C:\Users\mtome\Documents\MEGAsync\Informatica\Publii\Webs guardades\weboacu\preview/test-2/index.html",
-            "title": "Test",
-            "summary": "Test",
-            "content_html": "<p>Test</p>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-12-18T11:34:56+01:00",
-            "date_modified": "2024-12-18T11:34:56+01:00"
-        },
-        {
             "id": "file:///C:\Users\mtome\Documents\MEGAsync\Informatica\Publii\Webs guardades\weboacu\preview/incivismes-or-ciudad-sostenible/index.html",
             "url": "file:///C:\Users\mtome\Documents\MEGAsync\Informatica\Publii\Webs guardades\weboacu\preview/incivismes-or-ciudad-sostenible/index.html",
             "title": "Incivismes | ¿Ciudad Sostenible?",
@@ -160,6 +146,21 @@
             ],
             "date_published": "2023-12-27T09:02:39+01:00",
             "date_modified": "2024-03-31T19:15:19+02:00"
+        },
+        {
+            "id": "file:///C:\Users\mtome\Documents\MEGAsync\Informatica\Publii\Webs guardades\weboacu\preview/viajar-mundos-en-la-villa-31-per-samira-proeza/index.html",
+            "url": "file:///C:\Users\mtome\Documents\MEGAsync\Informatica\Publii\Webs guardades\weboacu\preview/viajar-mundos-en-la-villa-31-per-samira-proeza/index.html",
+            "title": "Viajar mundos en la Villa 31, per Samira Proeza",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"file:///C:/Users/mtome/Documents/MEGAsync/Informatica/Publii/Webs guardades/weboacu/preview/media/posts/101/Samira-Proeza-12.23.jpg\" alt=\"\" width=\"960\" height=\"540\" sizes=\"100vw\" srcset=\"file:///C:/Users/mtome/Documents/MEGAsync/Informatica/Publii/Webs%20guardades/weboacu/preview/media/posts/101/responsive/Samira-Proeza-12.23-xs.jpg 300w ,file:///C:/Users/mtome/Documents/MEGAsync/Informatica/Publii/Webs%20guardades/weboacu/preview/media/posts/101/responsive/Samira-Proeza-12.23-sm.jpg 480w ,file:///C:/Users/mtome/Documents/MEGAsync/Informatica/Publii/Webs%20guardades/weboacu/preview/media/posts/101/responsive/Samira-Proeza-12.23-md.jpg 768w ,file:///C:/Users/mtome/Documents/MEGAsync/Informatica/Publii/Webs%20guardades/weboacu/preview/media/posts/101/responsive/Samira-Proeza-12.23-lg.jpg 1024w ,file:///C:/Users/mtome/Documents/MEGAsync/Informatica/Publii/Webs%20guardades/weboacu/preview/media/posts/101/responsive/Samira-Proeza-12.23-xl.jpg 1360w ,file:///C:/Users/mtome/Documents/MEGAsync/Informatica/Publii/Webs%20guardades/weboacu/preview/media/posts/101/responsive/Samira-Proeza-12.23-2xl.jpg 1600w\"></figure>\n<p> </p>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+                   "Incivismes",
+                   "Activitats"
+            ],
+            "date_published": "2023-12-10T13:10:34+01:00",
+            "date_modified": "2023-12-26T11:31:54+01:00"
         }
     ]
 }

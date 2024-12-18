@@ -66,7 +66,7 @@ button {
             blueskyShareButton.addEventListener('click', function(e) {
                 e.preventDefault();
                 let imageUrl = firstImage.src;  // The first image URL
-    			let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}%0A${encodeURIComponent(imageUrl)}`;
+    			let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}.%0APer més informació, entra a:%0A${encodeURIComponent(pageUrl)}&imageUris=${encodeURIComponent(imageUrl)}.`;
           //Per ara no funciona així: let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}&imageUris=${encodeURIComponent(imageUrl)}|450|450`;
                 window.open(blueskyUrl, '_blank');
             });
@@ -75,7 +75,7 @@ button {
             facebookShareButton.addEventListener('click', function(e) {
                 e.preventDefault();
                 let imageUrl = firstImage.src;  // The first image URL
-                let facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}&quote=${encodeURIComponent(pageTitle)}%0A${encodeURIComponent(imageUrl)}`;
+                let facebookUrl = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(pageUrl)}&quote=${encodeURIComponent(pageTitle)}.%0APer més informació, entra a:%0A${encodeURIComponent(pageUrl)}`;
                 window.open(facebookUrl, '_blank');
             });
 
@@ -95,7 +95,11 @@ button {
         } else {
             // If no image is found inside .wrapper.post__entry, use the page URL for Bluesky
             blueskyShareButton.style.display = 'inline-block';  // Show Bluesky button even if no image
-
+            facebookShareButton.style.display = 'inline-block'; // Show Facebook button
+            linkedinShareButton.style.display = 'inline-block'; // Show LinkedIn button
+            instagramShareButton.style.display = 'inline-block'; // Show Instagram button
+    
+    
             blueskyShareButton.addEventListener('click', function(e) {
                 e.preventDefault();
                 let blueskyUrl = `https://bsky.app/intent/compose?text=${encodeURIComponent(pageTitle)}%0A${encodeURIComponent(pageUrl)}`;
