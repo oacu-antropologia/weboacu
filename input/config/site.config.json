@@ -7,7 +7,7 @@
         "color": 1,
         "icon": "web-radio"
     },
-    "domain": "https://oacu-antropologia.github.io/weboacu",
+    "domain": "https://observatoriconflicteurba.org",
     "language": "Ca",
     "spellchecking": false,
     "advanced": {
@@ -184,7 +184,7 @@
         "port": "",
         "server": "",
         "username": "",
-        "password": "publii uuid-1734338356290-629312543",
+        "password": "",
         "askforpassword": false,
         "rejectUnauthorized": true,
         "path": "",
@@ -194,8 +194,8 @@
             "customProvider": false,
             "provider": "aws",
             "endpoint": "",
-            "id": "publii-s3-id uuid-1734338356290-629312543",
-            "key": "publii-s3-key uuid-1734338356290-629312543",
+            "id": "",
+            "key": "",
             "bucket": "",
             "region": "",
             "customRegion": "",
@@ -206,7 +206,7 @@
             "url": "",
             "branch": "",
             "user": "",
-            "password": "publii-git-password uuid-1734338356290-629312543",
+            "password": "",
             "commitAuthor": "",
             "commitEmail": "",
             "commitMessage": "Publii: update content"
@@ -216,7 +216,7 @@
             "user": "",
             "repo": "",
             "branch": "",
-            "token": "publii-gh-token uuid-1734338356290-629312543",
+            "token": "",
             "parallelOperations": 1,
             "apiRateLimiting": 1
         },
@@ -225,11 +225,11 @@
             "rejectUnauthorized": true,
             "repo": "",
             "branch": "",
-            "token": "publii-gl-token uuid-1734338356290-629312543"
+            "token": ""
         },
         "netlify": {
-            "id": "publii-netlify-id uuid-1734338356290-629312543",
-            "token": "publii-netlify-token uuid-1734338356290-629312543"
+            "id": "",
+            "token": ""
         },
         "google": {
             "key": "",
@@ -242,5 +242,5 @@
         }
     },
     "theme": "simple",
-    "syncDate": 1734518409346
+    "syncDate": 1734532316755
 }
