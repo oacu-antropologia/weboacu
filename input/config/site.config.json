@@ -105,7 +105,7 @@
             "errorPage": "404.html",
             "searchPage": "search.html"
         },
-        "customHeadCode": "",
+        "customHeadCode": "    <script>\n        document.addEventListener(\"DOMContentLoaded\", function() {\n            const figure = document.querySelector('figure.hero__image.hero__image--overlay');\n            if (figure) {\n                const img = figure.querySelector('img');\n                if (img) {\n                    img.src = \"https://observatoriconflicteurba.org/media/website/imatge.jpg\";\n                    img.srcset = `\n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-xs.jpg 300w, \n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-sm.jpg 480w, \n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-md.jpg 768w, \n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-lg.jpg 1024w, \n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-xl.jpg 1360w, \n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-2xl.jpg 1600w\n                    `;\n                    img.sizes = \"100vw\";\n                    img.alt = \"\";\n                }\n            }\n        });\n    </script>",
         "customBodyCode": "",
         "customCommentsCode": "",
         "customSearchInput": "",
@@ -242,5 +242,5 @@
         }
     },
     "theme": "simple",
-    "syncDate": 1734534648736
+    "syncDate": 1734536024995
 }

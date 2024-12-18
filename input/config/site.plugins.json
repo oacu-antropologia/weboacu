@@ -4,5 +4,9 @@
     "googleAnalyticsIntegration": false,
     "imageDecoding": false,
     "syntaxHighlighter": false,
-    "featherIcons": false
+    "featherIcons": false,
+    "coreLightboxGallery": true,
+    "externalLinks": false,
+    "metaTabColors": false,
+    "simpleLightboxGallery": false
 }

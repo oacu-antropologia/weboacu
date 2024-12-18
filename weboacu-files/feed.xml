@@ -3,24 +3,26 @@
     <title>weboacu</title>
     <link href="https://observatoriconflicteurba.org/feed.xml" rel="self" />
     <link href="https://observatoriconflicteurba.org" />
-    <updated>2024-11-29T11:18:36+01:00</updated>
+    <updated>2024-12-18T16:30:30+01:00</updated>
     <author>
         <name>OACU</name>
     </author>
     <id>https://observatoriconflicteurba.org</id>
 
     <entry>
-        <title>Incivismes | ¿Ciudad Sostenible?</title>
+        <title>INCIVISMES | ¿Ciudad Sostenible?</title>
         <author>
             <name>OACU</name>
         </author>
         <link href="https://observatoriconflicteurba.org/incivismes-or-ciudad-sostenible/"/>
         <id>https://observatoriconflicteurba.org/incivismes-or-ciudad-sostenible/</id>
+        <media:content url="https://observatoriconflicteurba.org/media/posts/118/Outlook-poxvnkuh-2xl.jpg" medium="image" />
 
         <updated>2024-11-29T11:18:36+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://observatoriconflicteurba.org/media/posts/118/Outlook-poxvnkuh-2xl.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/118/Outlook-poxvnkuh.jpg" alt="" width="960" height="540" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-2xl.jpg 1600w"></figure>
             ]]>
         </content>
