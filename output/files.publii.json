@@ -390,6 +390,16 @@
         "md5": "53292bf270d60e24c8bf1a8962e819a7"
     },
     {
+        "path": "CNAME",
+        "type": "file",
+        "md5": "dd1616f693a2221454bf7b60e6101cbc"
+    },
+    {
+        "path": "CNAME.txt",
+        "type": "file",
+        "md5": "dd1616f693a2221454bf7b60e6101cbc"
+    },
+    {
         "path": "comun-franco-berardi-bifo",
         "type": "directory",
         "md5": false
