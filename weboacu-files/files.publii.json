@@ -2275,6 +2275,11 @@
         "md5": "f41fc7b8656698637d97a187bd373777"
     },
     {
+        "path": "/media/posts/12/9788829021901-768x1127.jpg",
+        "type": "file",
+        "md5": "f25d1873eb6c546220259c3680fd0fc3"
+    },
+    {
         "path": "/media/posts/12/apropiaciones.webp",
         "type": "file",
         "md5": "ff391fd656e7cc02c4401222ce8f73e9"
@@ -2673,6 +2678,36 @@
         "path": "/media/posts/12/responsive/2916-Lespace-public-com-ideologie-xs.jpg",
         "type": "file",
         "md5": "105019878d50200db9f21543a31172af"
+    },
+    {
+        "path": "/media/posts/12/responsive/9788829021901-768x1127-2xl.jpg",
+        "type": "file",
+        "md5": "66bae6f2492945b3f807604bd6660a36"
+    },
+    {
+        "path": "/media/posts/12/responsive/9788829021901-768x1127-lg.jpg",
+        "type": "file",
+        "md5": "66bae6f2492945b3f807604bd6660a36"
+    },
+    {
+        "path": "/media/posts/12/responsive/9788829021901-768x1127-md.jpg",
+        "type": "file",
+        "md5": "66bae6f2492945b3f807604bd6660a36"
+    },
+    {
+        "path": "/media/posts/12/responsive/9788829021901-768x1127-sm.jpg",
+        "type": "file",
+        "md5": "e804702537e18de668d057631d14c0f6"
+    },
+    {
+        "path": "/media/posts/12/responsive/9788829021901-768x1127-xl.jpg",
+        "type": "file",
+        "md5": "66bae6f2492945b3f807604bd6660a36"
+    },
+    {
+        "path": "/media/posts/12/responsive/9788829021901-768x1127-xs.jpg",
+        "type": "file",
+        "md5": "a6335b41c0cbf8e5ccb550596b80a5f4"
     },
     {
         "path": "/media/posts/12/responsive/apropiaciones-2xl.webp",
@@ -6487,7 +6522,7 @@
     {
         "path": "/publicacions/index.html",
         "type": "file",
-        "md5": "32bfaec2f98200e9aa26c0e021d0dfdf"
+        "md5": "dc40a9ad996decfa0814472250fa1183"
     },
     {
         "path": "recerca",
@@ -6567,7 +6602,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "2b569ff064ade4f59eb241fb8278416d"
+        "md5": "f27a4c5b428a5b0759502d5c60d78164"
     },
     {
         "path": "sitemap.xsl",
