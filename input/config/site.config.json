@@ -2,6 +2,7 @@
     "uuid": "uuid-1734338356290-629312543",
     "name": "weboacu",
     "displayName": "weboacu",
+    "description": "",
     "synced": "synced",
     "logo": {
         "color": 1,
@@ -105,7 +106,7 @@
             "errorPage": "404.html",
             "searchPage": "search.html"
         },
-        "customHeadCode": "    <script>\n        document.addEventListener(\"DOMContentLoaded\", function() {\n            const figure = document.querySelector('figure.hero__image.hero__image--overlay');\n            if (figure) {\n                const img = figure.querySelector('img');\n                if (img) {\n                    img.src = \"https://observatoriconflicteurba.org/media/website/imatge.jpg\";\n                    img.srcset = `\n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-xs.jpg 300w, \n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-sm.jpg 480w, \n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-md.jpg 768w, \n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-lg.jpg 1024w, \n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-xl.jpg 1360w, \n                        https://observatoriconflicteurba.org/media/website/responsive/imatge-2xl.jpg 1600w\n                    `;\n                    img.sizes = \"100vw\";\n                    img.alt = \"\";\n                }\n            }\n        });\n    </script>",
+        "customHeadCode": "    <script>\ndocument.addEventListener(\"DOMContentLoaded\", function() {\n    const figure = document.querySelector('figure.hero__image.hero__image--overlay');\n    if (figure) {\n        const img = figure.querySelector('img');\n        if (img) {\n            img.src = \"https://observatoriconflicteurba.org/media/files/policia.jpg\";\n            img.removeAttribute(\"srcset\"); // Remove srcset to ensure only policia.jpg is used\n            img.sizes = \"100vw\";\n            img.alt = \"\";\n        }\n    }\n});\n\n    </script>",
         "customBodyCode": "",
         "customCommentsCode": "",
         "customSearchInput": "",
@@ -242,5 +243,5 @@
         }
     },
     "theme": "simple",
-    "syncDate": 1738582349113
+    "syncDate": 1743762266906
 }
