@@ -627,12 +627,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "686d80607b75c17774a5da751c13b777"
+        "md5": "f742214d0602c1bb4d67384537dc92d7"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "cb597aeb1963589b38626b37ccbeae7f"
+        "md5": "2f7f58e73952697b9a704fba63e34fec"
     },
     {
         "path": "galvao-debelle-dos-santos",
@@ -742,12 +742,12 @@
     {
         "path": "/incivismes-or-ciudad-sostenible/index.html",
         "type": "file",
-        "md5": "cf41962e365f80afed8167774a63170a"
+        "md5": "a1980d0a72cc94012df4e26f9c929de6"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "16c78b7caf9f3b08e61bb92c7117d5fd"
+        "md5": "9b4832250731370112f65b3094acaf73"
     },
     {
         "path": "isabel-gomez-ara",
@@ -3168,6 +3168,51 @@
         "path": "/media/posts/12/singles-bellaterra.jpg",
         "type": "file",
         "md5": "ca229abfcf4f3b63bb42a25a53e2903b"
+    },
+    {
+        "path": "media/posts/121",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/121/Cartel_Sandro-Mezzadra-scaled.jpg",
+        "type": "file",
+        "md5": "7d15b3702ddc1dfee596dd01d6e7a92f"
+    },
+    {
+        "path": "media/posts/121/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-2xl.jpg",
+        "type": "file",
+        "md5": "491d28afaf65292f30f3c5d1cb20686e"
+    },
+    {
+        "path": "/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-lg.jpg",
+        "type": "file",
+        "md5": "09b4a7d049a21b76f729f46fac7e9160"
+    },
+    {
+        "path": "/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-md.jpg",
+        "type": "file",
+        "md5": "ef906a6e1f014b39b74e5b8bbf96fa71"
+    },
+    {
+        "path": "/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-sm.jpg",
+        "type": "file",
+        "md5": "2cb8d9cc9d69b74ca9cc1fc411f2a34e"
+    },
+    {
+        "path": "/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-xl.jpg",
+        "type": "file",
+        "md5": "9e55d7058f370277e931bceabccebffd"
+    },
+    {
+        "path": "/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-xs.jpg",
+        "type": "file",
+        "md5": "39ba55379fbc4e658e16bd06c76338a6"
     },
     {
         "path": "media/posts/19",
@@ -6382,7 +6427,7 @@
     {
         "path": "/page/10/index.html",
         "type": "file",
-        "md5": "8f2923c6743f5bc10cba5211f13de5a8"
+        "md5": "faac2065a4a309ec335ee04e4451858f"
     },
     {
         "path": "page/2",
@@ -6392,7 +6437,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "98d0bb9e6b3103829dc02500027889b2"
+        "md5": "76e01e7fb217b7a00cb48f3cf7ffdc0d"
     },
     {
         "path": "page/3",
@@ -6402,7 +6447,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "b8a69b8a32ecda6bdb15057d3c4a4da8"
+        "md5": "5f1e3a5859b348efd4e0aa96ded4bbc7"
     },
     {
         "path": "page/4",
@@ -6412,7 +6457,7 @@
     {
         "path": "/page/4/index.html",
         "type": "file",
-        "md5": "02e920f230c089682a8b2c7576aeb698"
+        "md5": "f16c24cac4929163302fc07d7786819a"
     },
     {
         "path": "page/5",
@@ -6422,7 +6467,7 @@
     {
         "path": "/page/5/index.html",
         "type": "file",
-        "md5": "934d86a80855ce5e79c07d5ca2300faa"
+        "md5": "73f3abe995b486ab40edf1f888835a85"
     },
     {
         "path": "page/6",
@@ -6432,7 +6477,7 @@
     {
         "path": "/page/6/index.html",
         "type": "file",
-        "md5": "5755867e88df7b47fcf32b4bc8b7d512"
+        "md5": "fe2951bea7ed8d46cbf430b1af54ff35"
     },
     {
         "path": "page/7",
@@ -6442,7 +6487,7 @@
     {
         "path": "/page/7/index.html",
         "type": "file",
-        "md5": "efcca9bb529b2bcef49f86034a3c5f4a"
+        "md5": "b0652091dbc9d440184ece2c47f7b532"
     },
     {
         "path": "page/8",
@@ -6452,7 +6497,7 @@
     {
         "path": "/page/8/index.html",
         "type": "file",
-        "md5": "c2ab7c8158dbb9eeb44577eba18f772c"
+        "md5": "3841afb5944a5d864879739b5e12662b"
     },
     {
         "path": "page/9",
@@ -6462,7 +6507,7 @@
     {
         "path": "/page/9/index.html",
         "type": "file",
-        "md5": "c039384cf3e12400b566d894e2ffbe72"
+        "md5": "e314415473c4dddaf29b7b1374fb046b"
     },
     {
         "path": "pedro-bennaton",
@@ -6525,6 +6570,11 @@
         "md5": "c191627eb0ebce6f62d79cf0de84ae47"
     },
     {
+        "path": "raval2002.jpg",
+        "type": "file",
+        "md5": "6b37d6cefcf1bd849ae998d4b8d89f34"
+    },
+    {
         "path": "recerca",
         "type": "directory",
         "md5": false
@@ -6548,6 +6598,16 @@
         "path": "/sandra-anitua/index.html",
         "type": "file",
         "md5": "8b1d647dc730b47dfeb0178a6ff08162"
+    },
+    {
+        "path": "seminari-de-sandro-mezzadra-capitalisme-racial-fronteres-i-migracions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/seminari-de-sandro-mezzadra-capitalisme-racial-fronteres-i-migracions/index.html",
+        "type": "file",
+        "md5": "24b734642d5c146ecde681646965ef1f"
     },
     {
         "path": "seminari-oacu-derivas-etnograficas-en-la-isla-de-zanzibar",
@@ -6602,7 +6662,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f27a4c5b428a5b0759502d5c60d78164"
+        "md5": "3c222566ae01b92aab98e32570de1496"
     },
     {
         "path": "sitemap.xsl",
