@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://observatoriconflicteurba.org/conversa-capitalisme-racial-fronteres-i-migracions/",
+            "url": "https://observatoriconflicteurba.org/conversa-capitalisme-racial-fronteres-i-migracions/",
+            "title": "Conversa: Capitalisme Racial, Fronteres i Migracions",
+            "summary": "📢 No et perdis la conversa \"Capitalisme Racial, Fronteres i Migracions\" amb Harsha Walia i Basha Changue 🗣️ 📅 17 de juliol a les 18h 📍 La Comunal, C/ Riera d'Escuder, 38",
+            "content_html": "<p>📢 No et perdis la conversa \"Capitalisme Racial, Fronteres i Migracions\" amb Harsha Walia i Basha Changue 🗣️ 📅 17 de juliol a les 18h 📍 La Comunal, C/ Riera d'Escuder, 38</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/124/bafkreieqxzhsyyizmhxb7ligon67ppbbpjvwmxc2pve4gse67em7mi4jyu.jpg\" alt=\"\" width=\"496\" height=\"703\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/124/responsive/bafkreieqxzhsyyizmhxb7ligon67ppbbpjvwmxc2pve4gse67em7mi4jyu-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/124/responsive/bafkreieqxzhsyyizmhxb7ligon67ppbbpjvwmxc2pve4gse67em7mi4jyu-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/124/responsive/bafkreieqxzhsyyizmhxb7ligon67ppbbpjvwmxc2pve4gse67em7mi4jyu-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/124/responsive/bafkreieqxzhsyyizmhxb7ligon67ppbbpjvwmxc2pve4gse67em7mi4jyu-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/124/responsive/bafkreieqxzhsyyizmhxb7ligon67ppbbpjvwmxc2pve4gse67em7mi4jyu-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/124/responsive/bafkreieqxzhsyyizmhxb7ligon67ppbbpjvwmxc2pve4gse67em7mi4jyu-2xl.jpg 1600w\"></figure>\n<p> </p>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+                   "Xerrades",
+                   "Activitats"
+            ],
+            "date_published": "2025-07-09T12:05:24+02:00",
+            "date_modified": "2025-07-09T12:05:24+02:00"
+        },
+        {
             "id": "https://observatoriconflicteurba.org/seminari-or-formas-alternativas-de-aproximacion-y-registro/",
             "url": "https://observatoriconflicteurba.org/seminari-or-formas-alternativas-de-aproximacion-y-registro/",
             "title": "Seminari | Formas alternativas de aproximación y registro",
@@ -144,22 +160,6 @@
             ],
             "date_published": "2024-04-02T13:40:26+02:00",
             "date_modified": "2024-04-02T13:41:01+02:00"
-        },
-        {
-            "id": "https://observatoriconflicteurba.org/bicibus-les-mobilitats-sostenibles-a-barcelona/",
-            "url": "https://observatoriconflicteurba.org/bicibus-les-mobilitats-sostenibles-a-barcelona/",
-            "title": "Bicibus: Les mobilitats sostenibles a Barcelona",
-            "summary": "En l'última dècada, la ciutat de Barcelona s'ha consolidat com a referent en la implementació de noves transformacions urbanes amb les quals es pretén donar resposta a la \"emergència climàtica\" i donar lloc a un nou model de \"urbanisme sostenible”. Entre els projectes que s'estan&hellip;",
-            "content_html": "<p><i>En l'última dècada, la ciutat de Barcelona s'ha consolidat com a referent en la implementació de noves transformacions urbanes amb les quals es pretén donar resposta a la \"emergència climàtica\" i donar lloc a un nou model de \"urbanisme sostenible”. Entre els projectes que s'estan duent a terme, destaca l'ampliació de la xarxa ciclista i la pacificació de nombroses vies, particularment aquelles que es troben adjacents a escoles. No obstant això, el desplegament d'aquestes noves infraestructures de mobilitat es troba amb problemàtiques imprevistes que desborden la projecció original amb base a la qual van ser concebudes. En aquesta presentació s'analitzarà la iniciativa del bicibús com un exemple paradigmàtic de les noves pràctiques de mobilitat \"sostenible\" a la ciutat.</i></p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/104/SeminariOACU_2024_02.jpg\" alt=\"\" width=\"1587\" height=\"2245\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/104/responsive/SeminariOACU_2024_02-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/104/responsive/SeminariOACU_2024_02-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/104/responsive/SeminariOACU_2024_02-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/104/responsive/SeminariOACU_2024_02-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/104/responsive/SeminariOACU_2024_02-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/104/responsive/SeminariOACU_2024_02-2xl.jpg 1600w\"></figure>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-                   "Seminari de recerca",
-                   "Activitats"
-            ],
-            "date_published": "2024-01-31T22:07:38+01:00",
-            "date_modified": "2024-01-31T22:07:38+01:00"
         }
     ]
 }
