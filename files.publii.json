@@ -665,6 +665,16 @@
         "md5": "df6c0d042c5bdc789d52d493fc270860"
     },
     {
+        "path": "genere-i-mercantilitzacio-als-barris-de-barcelona",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/genere-i-mercantilitzacio-als-barris-de-barcelona/index.html",
+        "type": "file",
+        "md5": "ba8709dac62e226c09077ac8dcf35893"
+    },
+    {
         "path": "geografia-urbana-e-interacciones-sexualizadas-en-medellin-colombia-per-samantha-joeck",
         "type": "directory",
         "md5": false
@@ -3448,6 +3458,96 @@
         "path": "/media/posts/124/responsive/bafkreieqxzhsyyizmhxb7ligon67ppbbpjvwmxc2pve4gse67em7mi4jyu-xs.jpg",
         "type": "file",
         "md5": "577ec17a0027805578c0227bf5bb57ed"
+    },
+    {
+        "path": "media/posts/125",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/125/Imatge1.png",
+        "type": "file",
+        "md5": "c551e1b824d8e414d45a4dac8953ad05"
+    },
+    {
+        "path": "media/posts/125/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/125/responsive/Imatge1-2xl.png",
+        "type": "file",
+        "md5": "48600a20382b98b8711f7358c43bd51a"
+    },
+    {
+        "path": "/media/posts/125/responsive/Imatge1-lg.png",
+        "type": "file",
+        "md5": "48600a20382b98b8711f7358c43bd51a"
+    },
+    {
+        "path": "/media/posts/125/responsive/Imatge1-md.png",
+        "type": "file",
+        "md5": "48600a20382b98b8711f7358c43bd51a"
+    },
+    {
+        "path": "/media/posts/125/responsive/Imatge1-sm.png",
+        "type": "file",
+        "md5": "880bbf248cc858292dc5c3779267550a"
+    },
+    {
+        "path": "/media/posts/125/responsive/Imatge1-xl.png",
+        "type": "file",
+        "md5": "48600a20382b98b8711f7358c43bd51a"
+    },
+    {
+        "path": "/media/posts/125/responsive/Imatge1-xs.png",
+        "type": "file",
+        "md5": "a6c2aa0a47ef299f70000a90b2e2fe5e"
+    },
+    {
+        "path": "media/posts/126",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/126/Imatge2.jpg",
+        "type": "file",
+        "md5": "caad7acfdb53b8fbf6c76c880e47b62f"
+    },
+    {
+        "path": "media/posts/126/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/126/responsive/Imatge2-2xl.jpg",
+        "type": "file",
+        "md5": "59bb3df92c6b729d34bca27f0a2dfa66"
+    },
+    {
+        "path": "/media/posts/126/responsive/Imatge2-lg.jpg",
+        "type": "file",
+        "md5": "59bb3df92c6b729d34bca27f0a2dfa66"
+    },
+    {
+        "path": "/media/posts/126/responsive/Imatge2-md.jpg",
+        "type": "file",
+        "md5": "59bb3df92c6b729d34bca27f0a2dfa66"
+    },
+    {
+        "path": "/media/posts/126/responsive/Imatge2-sm.jpg",
+        "type": "file",
+        "md5": "ce6864dc13a8a8c2dd787c44b4b415b8"
+    },
+    {
+        "path": "/media/posts/126/responsive/Imatge2-xl.jpg",
+        "type": "file",
+        "md5": "59bb3df92c6b729d34bca27f0a2dfa66"
+    },
+    {
+        "path": "/media/posts/126/responsive/Imatge2-xs.jpg",
+        "type": "file",
+        "md5": "3a736fffc2c206fb1ae34a559ea79e5d"
     },
     {
         "path": "media/posts/19",
@@ -6927,7 +7027,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "2745180b774b85bb0837f8046a19c8af"
+        "md5": "75e4ca2a46a25d070ac96bf8b28408db"
     },
     {
         "path": "sitemap.xsl",
@@ -6963,6 +7063,16 @@
         "path": "/tallers/index.html",
         "type": "file",
         "md5": "bc1f1045550639396139065f1d45f095"
+    },
+    {
+        "path": "tallers-de-genere-i-gentrificacio-enfortint-les-relacions-de-cura-veinals-per-atenuar-lexclusio-socioresidencial",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tallers-de-genere-i-gentrificacio-enfortint-les-relacions-de-cura-veinals-per-atenuar-lexclusio-socioresidencial/index.html",
+        "type": "file",
+        "md5": "d8af1bea94fd9098119e4dc17741414e"
     },
     {
         "path": "tommaso-sarti",
