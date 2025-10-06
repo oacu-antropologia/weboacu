@@ -647,12 +647,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "97448275740d5ca4990054ecf95508a6"
+        "md5": "abd7475944719d704980adf9066b0be2"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "28e48bd08b6fcd45eeb8a6876f87160b"
+        "md5": "f9b4cffab7f7bc1418a72b0d9a315d36"
     },
     {
         "path": "galvao-debelle-dos-santos",
@@ -787,7 +787,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "436f8f707ae1a5dfdb6749359319fea5"
+        "md5": "304653b03cef96722309b7f027d1a03b"
     },
     {
         "path": "isabel-gomez-ara",
@@ -3593,6 +3593,86 @@
         "path": "/media/posts/127/responsive/IMG_20240613_1904361-xs.jpg",
         "type": "file",
         "md5": "09e20de59dedd4710b58c742ca2dc8ef"
+    },
+    {
+        "path": "media/posts/128",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/128/Cartel_Bridget-Anderson_e-mail-1-2.png",
+        "type": "file",
+        "md5": "ffe449029da2d4802f1927bcf57b2110"
+    },
+    {
+        "path": "/media/posts/128/Cartel_Bridget-Anderson_e-mail-1.png",
+        "type": "file",
+        "md5": "ffe449029da2d4802f1927bcf57b2110"
+    },
+    {
+        "path": "media/posts/128/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-2-2xl.png",
+        "type": "file",
+        "md5": "1e3932f43a36ff2ff25b367301cb7322"
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-2-lg.png",
+        "type": "file",
+        "md5": "eac4d12fa2900a569abbc3282faefffb"
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-2-md.png",
+        "type": "file",
+        "md5": "c3c10fb66467329a47bef81f77ba20b0"
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-2-sm.png",
+        "type": "file",
+        "md5": "e0f934ee30436250c10487b6bf2b239b"
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-2-xl.png",
+        "type": "file",
+        "md5": "b193e982c7af6ff732b2ed330ec47543"
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-2-xs.png",
+        "type": "file",
+        "md5": "e56a69ccfcbe1b9717f3ca6d46a2e09d"
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-2xl.png",
+        "type": "file",
+        "md5": "1e3932f43a36ff2ff25b367301cb7322"
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-lg.png",
+        "type": "file",
+        "md5": "eac4d12fa2900a569abbc3282faefffb"
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-md.png",
+        "type": "file",
+        "md5": "c3c10fb66467329a47bef81f77ba20b0"
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-sm.png",
+        "type": "file",
+        "md5": "e0f934ee30436250c10487b6bf2b239b"
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-xl.png",
+        "type": "file",
+        "md5": "b193e982c7af6ff732b2ed330ec47543"
+    },
+    {
+        "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-xs.png",
+        "type": "file",
+        "md5": "e56a69ccfcbe1b9717f3ca6d46a2e09d"
     },
     {
         "path": "media/posts/19",
@@ -6537,7 +6617,7 @@
     {
         "path": "/obituari-juliana-marcus/index.html",
         "type": "file",
-        "md5": "e6fa48aaebbdb9d689d65f170ddecd2f"
+        "md5": "412c3b9618ed630eafb013c7ff558952"
     },
     {
         "path": "okupacio-bens-comuns-i-conflicte-or-okupacion-bienes-comunes-y-conflicto",
@@ -6577,7 +6657,7 @@
     {
         "path": "/p/activitats/index.html",
         "type": "file",
-        "md5": "f54e7cd0d55c96166062d2cc53b4a8ed"
+        "md5": "5de310c2ecfe068414f7903eb3361490"
     },
     {
         "path": "p/activitats/page",
@@ -6592,7 +6672,7 @@
     {
         "path": "/p/activitats/page/2/index.html",
         "type": "file",
-        "md5": "853b37e551949a8d9f40b55c496ab2c9"
+        "md5": "e58dff78e976d50d119179a0a62cc8d9"
     },
     {
         "path": "p/activitats/page/3",
@@ -6602,7 +6682,7 @@
     {
         "path": "/p/activitats/page/3/index.html",
         "type": "file",
-        "md5": "0e05fc13dab0f729f3c81c73af7353ed"
+        "md5": "9a645e11aba1d95d1f954dad5f8ed021"
     },
     {
         "path": "p/activitats/page/4",
@@ -6612,7 +6692,7 @@
     {
         "path": "/p/activitats/page/4/index.html",
         "type": "file",
-        "md5": "e2a7522adff3aa8f2847955fe48fe223"
+        "md5": "e285e487d2289d695fb504fa6b83425a"
     },
     {
         "path": "p/activitats/page/5",
@@ -6622,7 +6702,7 @@
     {
         "path": "/p/activitats/page/5/index.html",
         "type": "file",
-        "md5": "0fa75eb6e167e04a3b47d69443a91267"
+        "md5": "3c4c203d0e59a3c0eb64e5c38d21b61e"
     },
     {
         "path": "p/activitats/page/6",
@@ -6632,7 +6712,7 @@
     {
         "path": "/p/activitats/page/6/index.html",
         "type": "file",
-        "md5": "723e20dc08d91437be030646dd2b02ac"
+        "md5": "89f004eb8d780ec4ee5c152494dec22b"
     },
     {
         "path": "p/activitats/page/7",
@@ -6642,7 +6722,7 @@
     {
         "path": "/p/activitats/page/7/index.html",
         "type": "file",
-        "md5": "521bee696eadc9a13a055da4418fadef"
+        "md5": "d5d6631375d0482bd8614c52281cc88c"
     },
     {
         "path": "p/activitats/page/8",
@@ -6652,7 +6732,7 @@
     {
         "path": "/p/activitats/page/8/index.html",
         "type": "file",
-        "md5": "2b1b6005a1259ef42a68ab9f08bba907"
+        "md5": "db6579a0e12bde0c8aa2d22cf97be092"
     },
     {
         "path": "p/blog-oacu",
@@ -6747,7 +6827,7 @@
     {
         "path": "/p/index.html",
         "type": "file",
-        "md5": "67a3e2d804d57476c7106443334b1fc1"
+        "md5": "ea0957be157301ff943b0e545e604f6e"
     },
     {
         "path": "p/jornades",
@@ -6787,7 +6867,7 @@
     {
         "path": "/p/seminaris-de-recerca/index.html",
         "type": "file",
-        "md5": "4513b9a5d2a2f3314c106617d0031e67"
+        "md5": "2d4c19e433b2ff3af77b8036b52ecd30"
     },
     {
         "path": "p/seminaris-de-recerca/page",
@@ -6802,7 +6882,7 @@
     {
         "path": "/p/seminaris-de-recerca/page/2/index.html",
         "type": "file",
-        "md5": "e2beac8f3d677cd69b8df6c67978f51e"
+        "md5": "6fb08f6c21d324d0a02ba9f8bfa54b22"
     },
     {
         "path": "p/tallers",
@@ -6837,7 +6917,7 @@
     {
         "path": "/page/10/index.html",
         "type": "file",
-        "md5": "5cf4a238d1dbad1327645c2f9d1933da"
+        "md5": "75f5625d063e72a73e84ae4e040c5d6d"
     },
     {
         "path": "page/11",
@@ -6847,7 +6927,7 @@
     {
         "path": "/page/11/index.html",
         "type": "file",
-        "md5": "0d2daae25ace1943e4fc7e7413cd2a47"
+        "md5": "fa7df3ce61b37fc6781205327f785fee"
     },
     {
         "path": "page/2",
@@ -6857,7 +6937,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "99170e0f72ed4ca39c4eab345678ab54"
+        "md5": "d0adb95322690b42356e6d43c534b620"
     },
     {
         "path": "page/3",
@@ -6867,7 +6947,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "1d14912b21ce07e65f9e3badc3fe79ff"
+        "md5": "7bd6a6d92f6316b819d4a38ff2fcc6d2"
     },
     {
         "path": "page/4",
@@ -6877,7 +6957,7 @@
     {
         "path": "/page/4/index.html",
         "type": "file",
-        "md5": "ea44df5f8df86bd9bf8a614ca6ddab34"
+        "md5": "f5afbc73688041c8b6542483635c98e5"
     },
     {
         "path": "page/5",
@@ -6887,7 +6967,7 @@
     {
         "path": "/page/5/index.html",
         "type": "file",
-        "md5": "421b3c350556a39254742e76a503c42f"
+        "md5": "54d4d1b69cd069e3c9a152629a75b320"
     },
     {
         "path": "page/6",
@@ -6897,7 +6977,7 @@
     {
         "path": "/page/6/index.html",
         "type": "file",
-        "md5": "f1512c665f5722196f5986c0a63c9ca6"
+        "md5": "c67303a9a108bd6f40e4200341098fa3"
     },
     {
         "path": "page/7",
@@ -6907,7 +6987,7 @@
     {
         "path": "/page/7/index.html",
         "type": "file",
-        "md5": "ce2e5fbdfa9e63c53c61f7f2d2ae4ef9"
+        "md5": "4a632238d5e41e7b2b4882684cfcc50c"
     },
     {
         "path": "page/8",
@@ -6917,7 +6997,7 @@
     {
         "path": "/page/8/index.html",
         "type": "file",
-        "md5": "d7cbfd98543920837ab57fb80973f778"
+        "md5": "835b77c85bc1aa0a36a68fd68cbe668d"
     },
     {
         "path": "page/9",
@@ -6927,7 +7007,7 @@
     {
         "path": "/page/9/index.html",
         "type": "file",
-        "md5": "877a27fb2a1ee29d21849baa2a8f32bc"
+        "md5": "0437c84e13cbb2ef7b594c9b0bb207eb"
     },
     {
         "path": "pedro-bennaton",
@@ -7040,6 +7120,16 @@
         "md5": "a73b946c05a2f16b7b4f84612e2d888e"
     },
     {
+        "path": "seminari-or-capitalisme-racial-fronteres-i-migracions-de-bridget-anderson",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/seminari-or-capitalisme-racial-fronteres-i-migracions-de-bridget-anderson/index.html",
+        "type": "file",
+        "md5": "66ce0f10520b7fff452f7e71af68d7d8"
+    },
+    {
         "path": "seminari-or-formas-alternativas-de-aproximacion-y-registro",
         "type": "directory",
         "md5": false
@@ -7092,7 +7182,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "42376075624baa247cbeb9c5f05b20d9"
+        "md5": "b74e4a60b99b7fca6f1b5d7943482660"
     },
     {
         "path": "sitemap.xsl",
