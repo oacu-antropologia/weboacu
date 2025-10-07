@@ -647,12 +647,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "abd7475944719d704980adf9066b0be2"
+        "md5": "2a243e565f47fdcbea0c4eba67a08bb1"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "f9b4cffab7f7bc1418a72b0d9a315d36"
+        "md5": "a0f5a0006971bf89f3ba929de13f3e51"
     },
     {
         "path": "galvao-debelle-dos-santos",
@@ -787,7 +787,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "304653b03cef96722309b7f027d1a03b"
+        "md5": "debead9a6b4157553aecdd68d609b64d"
     },
     {
         "path": "isabel-gomez-ara",
@@ -6657,7 +6657,7 @@
     {
         "path": "/p/activitats/index.html",
         "type": "file",
-        "md5": "5de310c2ecfe068414f7903eb3361490"
+        "md5": "6590db8857546262f3dd49452fcf8c79"
     },
     {
         "path": "p/activitats/page",
@@ -6867,7 +6867,7 @@
     {
         "path": "/p/seminaris-de-recerca/index.html",
         "type": "file",
-        "md5": "2d4c19e433b2ff3af77b8036b52ecd30"
+        "md5": "6f8d40a13e00188c339c43c4dfdcdb20"
     },
     {
         "path": "p/seminaris-de-recerca/page",
@@ -7127,7 +7127,7 @@
     {
         "path": "/seminari-or-capitalisme-racial-fronteres-i-migracions-de-bridget-anderson/index.html",
         "type": "file",
-        "md5": "66ce0f10520b7fff452f7e71af68d7d8"
+        "md5": "4beac8038aa996b2e3a0c9d082973455"
     },
     {
         "path": "seminari-or-formas-alternativas-de-aproximacion-y-registro",
@@ -7182,7 +7182,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "b74e4a60b99b7fca6f1b5d7943482660"
+        "md5": "43a52bb9febffa61d91bc2255efcf7cf"
     },
     {
         "path": "sitemap.xsl",
