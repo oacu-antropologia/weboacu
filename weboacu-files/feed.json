@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://observatoriconflicteurba.org/jornades-or-dones-musulmanes-als-espais-publics/",
+            "url": "https://observatoriconflicteurba.org/jornades-or-dones-musulmanes-als-espais-publics/",
+            "title": "Jornades | Dones musulmanes als espais públics",
+            "summary": "🟣 Jornades: Dones musulmanes als espais públics 📍 UB – Fac. Geografia i Història (Aula 208) 📅 22 i 23 desembre 2025 🗣️ Feminisme, religió, discriminacions i polítiques públiques ✊ Veus acadèmiques, institucionals i comunitàries",
+            "content_html": "<p>🟣 <strong data-start=\"3\" data-end=\"52\">Jornades: Dones musulmanes als espais públics</strong><br data-start=\"52\" data-end=\"55\">📍 UB – Fac. Geografia i Història (Aula 208)<br data-start=\"99\" data-end=\"102\">📅 22 i 23 desembre 2025<br data-start=\"126\" data-end=\"129\">🗣️ Feminisme, religió, discriminacions i polítiques públiques<br data-start=\"191\" data-end=\"194\">✊ Veus acadèmiques, institucionals i comunitàries</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/130/Dones-musulmanes-als-espais-publics-2.jpg\" alt=\"\" width=\"842\" height=\"1190\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/130/responsive/Dones-musulmanes-als-espais-publics-2-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/130/responsive/Dones-musulmanes-als-espais-publics-2-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/130/responsive/Dones-musulmanes-als-espais-publics-2-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/130/responsive/Dones-musulmanes-als-espais-publics-2-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/130/responsive/Dones-musulmanes-als-espais-publics-2-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/130/responsive/Dones-musulmanes-als-espais-publics-2-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-18T17:49:40+01:00",
+            "date_modified": "2025-12-18T17:49:40+01:00"
+        },
+        {
             "id": "https://observatoriconflicteurba.org/seminari-or-time-space-status-migration-and-racial-capitalism/",
             "url": "https://observatoriconflicteurba.org/seminari-or-time-space-status-migration-and-racial-capitalism/",
             "title": "Seminari | Time, Space, Status: Migration and Racial Capitalism",
@@ -20,9 +34,11 @@
                 "name": "OACU"
             },
             "tags": [
+                   "Seminari de recerca",
+                   "Activitats"
             ],
             "date_published": "2025-12-18T12:51:00+01:00",
-            "date_modified": "2025-12-18T12:51:00+01:00"
+            "date_modified": "2025-12-18T17:49:04+01:00"
         },
         {
             "id": "https://observatoriconflicteurba.org/seminari-or-capitalisme-racial-fronteres-i-migracions-de-bridget-anderson/",
@@ -144,21 +160,6 @@
             ],
             "date_published": "2024-10-11T13:00:06+02:00",
             "date_modified": "2024-10-11T13:00:06+02:00"
-        },
-        {
-            "id": "https://observatoriconflicteurba.org/jornada-destudi-noves-i-velles-expressions-de-religiositat-popular-a-catalunya-en-clau-de-genere/",
-            "url": "https://observatoriconflicteurba.org/jornada-destudi-noves-i-velles-expressions-de-religiositat-popular-a-catalunya-en-clau-de-genere/",
-            "title": "Jornada d&#x27;estudi: Noves i velles expressions de religiositat popular a Catalunya en clau de gènere",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/114/Cartell-2.png\" alt=\"\" width=\"2316\" height=\"3574\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-xs.png 300w ,https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-sm.png 480w ,https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-md.png 768w ,https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-lg.png 1024w ,https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-xl.png 1360w ,https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-2xl.png 1600w\"></figure>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-                   "Jornades",
-                   "Activitats"
-            ],
-            "date_published": "2024-10-08T17:53:10+02:00",
-            "date_modified": "2024-10-08T17:53:20+02:00"
         }
     ]
 }
