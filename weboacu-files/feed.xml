@@ -3,7 +3,7 @@
     <title>weboacu</title>
     <link href="https://observatoriconflicteurba.org/feed.xml" rel="self" />
     <link href="https://observatoriconflicteurba.org" />
-    <updated>2025-12-18T17:49:40+01:00</updated>
+    <updated>2025-12-18T17:51:27+01:00</updated>
     <author>
         <name>OACU</name>
     </author>
@@ -16,6 +16,8 @@
         </author>
         <link href="https://observatoriconflicteurba.org/jornades-or-dones-musulmanes-als-espais-publics/"/>
         <id>https://observatoriconflicteurba.org/jornades-or-dones-musulmanes-als-espais-publics/</id>
+            <category term="Jornades"/>
+            <category term="Activitats"/>
 
         <updated>2025-12-18T17:49:40+01:00</updated>
             <summary>
