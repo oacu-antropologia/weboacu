@@ -232,7 +232,17 @@
     {
         "path": "/authors/oacu/page/11/index.html",
         "type": "file",
-        "md5": "7eeb07ddb63efc4f7bb70e9834a8434d"
+        "md5": "01d2d10b7d0d4b77d1abc6368d0c09f2"
+    },
+    {
+        "path": "authors/oacu/page/12",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/oacu/page/12/index.html",
+        "type": "file",
+        "md5": "00d4b6cecb919161ab33b45118a79171"
     },
     {
         "path": "authors/oacu/page/2",
@@ -647,12 +657,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "2a243e565f47fdcbea0c4eba67a08bb1"
+        "md5": "12bf45b90862be01f0ae7e0902e63e92"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "a0f5a0006971bf89f3ba929de13f3e51"
+        "md5": "f86661aed8d93cf0d4c025680d0037ce"
     },
     {
         "path": "galvao-debelle-dos-santos",
@@ -787,7 +797,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "debead9a6b4157553aecdd68d609b64d"
+        "md5": "5b28f8492f664e0f4392166221f80617"
     },
     {
         "path": "isabel-gomez-ara",
@@ -2335,6 +2345,11 @@
         "md5": "ff391fd656e7cc02c4401222ce8f73e9"
     },
     {
+        "path": "/media/posts/12/baa35-la-ciudad-mercancia.webp",
+        "type": "file",
+        "md5": "bbf08d106060c4660a3cfdeeb9a15e81"
+    },
+    {
         "path": "/media/posts/12/baye-fall.webp",
         "type": "file",
         "md5": "51081210219abf7559b146854edb7817"
@@ -2858,6 +2873,36 @@
         "path": "/media/posts/12/responsive/apropiaciones-xs.webp",
         "type": "file",
         "md5": "88db5972055a3d92bfea7503aae356d6"
+    },
+    {
+        "path": "/media/posts/12/responsive/baa35-la-ciudad-mercancia-2xl.webp",
+        "type": "file",
+        "md5": "dc8efaa0930ea4b65bee779471d111fd"
+    },
+    {
+        "path": "/media/posts/12/responsive/baa35-la-ciudad-mercancia-lg.webp",
+        "type": "file",
+        "md5": "dc8efaa0930ea4b65bee779471d111fd"
+    },
+    {
+        "path": "/media/posts/12/responsive/baa35-la-ciudad-mercancia-md.webp",
+        "type": "file",
+        "md5": "dc8efaa0930ea4b65bee779471d111fd"
+    },
+    {
+        "path": "/media/posts/12/responsive/baa35-la-ciudad-mercancia-sm.webp",
+        "type": "file",
+        "md5": "f6ce7f7dc2cd8992155d8b9ccb1a4784"
+    },
+    {
+        "path": "/media/posts/12/responsive/baa35-la-ciudad-mercancia-xl.webp",
+        "type": "file",
+        "md5": "dc8efaa0930ea4b65bee779471d111fd"
+    },
+    {
+        "path": "/media/posts/12/responsive/baa35-la-ciudad-mercancia-xs.webp",
+        "type": "file",
+        "md5": "1672ac3c4d734a24b184f3f180e394f4"
     },
     {
         "path": "/media/posts/12/responsive/baye-fall-2xl.webp",
@@ -3743,6 +3788,51 @@
         "path": "/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-xs.png",
         "type": "file",
         "md5": "e56a69ccfcbe1b9717f3ca6d46a2e09d"
+    },
+    {
+        "path": "media/posts/129",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/129/Bridget-Anderson.-12_25-1.png",
+        "type": "file",
+        "md5": "4684d3d9e536b1b36db0417dc12c7f7f"
+    },
+    {
+        "path": "media/posts/129/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/129/responsive/Bridget-Anderson.-12_25-1-2xl.png",
+        "type": "file",
+        "md5": "629f838fa264c64ead0e688a145e007f"
+    },
+    {
+        "path": "/media/posts/129/responsive/Bridget-Anderson.-12_25-1-lg.png",
+        "type": "file",
+        "md5": "bb5a7673bcdb3b69ecc8348136565270"
+    },
+    {
+        "path": "/media/posts/129/responsive/Bridget-Anderson.-12_25-1-md.png",
+        "type": "file",
+        "md5": "2d3033e4d52b5fff4db11c0b4010aa7c"
+    },
+    {
+        "path": "/media/posts/129/responsive/Bridget-Anderson.-12_25-1-sm.png",
+        "type": "file",
+        "md5": "78c1f04606dcf5bef25f795942488cc6"
+    },
+    {
+        "path": "/media/posts/129/responsive/Bridget-Anderson.-12_25-1-xl.png",
+        "type": "file",
+        "md5": "e7916e00be7d0506ce9496b83c915322"
+    },
+    {
+        "path": "/media/posts/129/responsive/Bridget-Anderson.-12_25-1-xs.png",
+        "type": "file",
+        "md5": "770d05eb5e9cf528b26f93c4f5506b44"
     },
     {
         "path": "media/posts/19",
@@ -6987,7 +7077,7 @@
     {
         "path": "/page/10/index.html",
         "type": "file",
-        "md5": "75f5625d063e72a73e84ae4e040c5d6d"
+        "md5": "1a53c183629e076a3f6e214e1fa75716"
     },
     {
         "path": "page/11",
@@ -6997,7 +7087,7 @@
     {
         "path": "/page/11/index.html",
         "type": "file",
-        "md5": "fa7df3ce61b37fc6781205327f785fee"
+        "md5": "24fc6a8053ca790fd9fd4ee3c0b1ddcc"
     },
     {
         "path": "page/2",
@@ -7007,7 +7097,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "d0adb95322690b42356e6d43c534b620"
+        "md5": "29674d6a1fa21942f2dad2b0401980c1"
     },
     {
         "path": "page/3",
@@ -7017,7 +7107,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "7bd6a6d92f6316b819d4a38ff2fcc6d2"
+        "md5": "a5a798924fb63d8295e0446b3fe0f071"
     },
     {
         "path": "page/4",
@@ -7027,7 +7117,7 @@
     {
         "path": "/page/4/index.html",
         "type": "file",
-        "md5": "f5afbc73688041c8b6542483635c98e5"
+        "md5": "a3b7983dbebd856925cb4cc98b74bc87"
     },
     {
         "path": "page/5",
@@ -7037,7 +7127,7 @@
     {
         "path": "/page/5/index.html",
         "type": "file",
-        "md5": "54d4d1b69cd069e3c9a152629a75b320"
+        "md5": "638227e7ec4dd1ce6d165fd2e2fdc95c"
     },
     {
         "path": "page/6",
@@ -7047,7 +7137,7 @@
     {
         "path": "/page/6/index.html",
         "type": "file",
-        "md5": "c67303a9a108bd6f40e4200341098fa3"
+        "md5": "5857c42bf80853c6ea74be46502437d5"
     },
     {
         "path": "page/7",
@@ -7057,7 +7147,7 @@
     {
         "path": "/page/7/index.html",
         "type": "file",
-        "md5": "4a632238d5e41e7b2b4882684cfcc50c"
+        "md5": "c24a5e3b117442d0a40e9819cd5485e6"
     },
     {
         "path": "page/8",
@@ -7067,7 +7157,7 @@
     {
         "path": "/page/8/index.html",
         "type": "file",
-        "md5": "835b77c85bc1aa0a36a68fd68cbe668d"
+        "md5": "cc541d3c56e621244429a174ade63772"
     },
     {
         "path": "page/9",
@@ -7077,7 +7167,7 @@
     {
         "path": "/page/9/index.html",
         "type": "file",
-        "md5": "0437c84e13cbb2ef7b594c9b0bb207eb"
+        "md5": "da5c7c0a10b0461362aed9c6952927d3"
     },
     {
         "path": "pedro-bennaton",
@@ -7137,7 +7227,7 @@
     {
         "path": "/publicacions/index.html",
         "type": "file",
-        "md5": "3f3bb6cd2746a014f153fd5512a18c1f"
+        "md5": "2090fd4d4413f9086aba8fd667b3d07c"
     },
     {
         "path": "raval2002.jpg",
@@ -7197,7 +7287,7 @@
     {
         "path": "/seminari-or-capitalisme-racial-fronteres-i-migracions-de-bridget-anderson/index.html",
         "type": "file",
-        "md5": "4beac8038aa996b2e3a0c9d082973455"
+        "md5": "45e485561dc053decadf1a75f2f03045"
     },
     {
         "path": "seminari-or-formas-alternativas-de-aproximacion-y-registro",
@@ -7218,6 +7308,16 @@
         "path": "/seminari-or-mucha-clase-y-poco-genero/index.html",
         "type": "file",
         "md5": "88a46affb551af2aaba140ee241a99f6"
+    },
+    {
+        "path": "seminari-or-time-space-status-migration-and-racial-capitalism",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/seminari-or-time-space-status-migration-and-racial-capitalism/index.html",
+        "type": "file",
+        "md5": "75a2a23144b74ac06718013755daaf9e"
     },
     {
         "path": "sena-aydin",
@@ -7252,7 +7352,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "4953b4d2ffec55eabb525311c467a776"
+        "md5": "7e11b327eb0554414f5aab605caae168"
     },
     {
         "path": "sitemap.xsl",

@@ -3,12 +3,33 @@
     <title>weboacu</title>
     <link href="https://observatoriconflicteurba.org/feed.xml" rel="self" />
     <link href="https://observatoriconflicteurba.org" />
-    <updated>2025-10-07T09:32:09+02:00</updated>
+    <updated>2025-12-18T12:51:00+01:00</updated>
     <author>
         <name>OACU</name>
     </author>
     <id>https://observatoriconflicteurba.org</id>
 
+    <entry>
+        <title>Seminari | Time, Space, Status: Migration and Racial Capitalism</title>
+        <author>
+            <name>OACU</name>
+        </author>
+        <link href="https://observatoriconflicteurba.org/seminari-or-time-space-status-migration-and-racial-capitalism/"/>
+        <id>https://observatoriconflicteurba.org/seminari-or-time-space-status-migration-and-racial-capitalism/</id>
+
+        <updated>2025-12-18T12:51:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                    🗓️ Seminari: Time, Space, Status: Migration and Racial Capitalism 🎙️ Bridget Anderson, prof. de Migracions (Univ. de Bristol) 📍 UB – Fac. Geografia i Història ⏰ 18 febrer, 12h 🔎 Capitalisme racial, fronteres i migracions
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>🗓️ <strong data-start="4" data-end="16">Seminari</strong>: <em data-start="18" data-end="72">Time, Space, Status: Migration and Racial Capitalism</em><br data-start="72" data-end="75">🎙️ <strong data-start="79" data-end="99">Bridget Anderson</strong>, prof. de Migracions (Univ. de Bristol)<br data-start="139" data-end="142">📍 UB – Fac. Geografia i Història<br data-start="175" data-end="178">⏰ 18 febrer, 12h<br data-start="194" data-end="197">🔎 Capitalisme racial, fronteres i migracions</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/129/Bridget-Anderson.-12_25-1.png" alt="" width="2340" height="3307" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-xs.png 300w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-sm.png 480w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-md.png 768w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-lg.png 1024w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-xl.png 1360w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Seminari | Capitalisme Racial, Fronteres i Migracions de Bridget Anderson</title>
         <author>
@@ -207,23 +228,6 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/114/Cartell-2.png" alt="" width="2316" height="3574" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-xs.png 300w ,https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-sm.png 480w ,https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-md.png 768w ,https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-lg.png 1024w ,https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-xl.png 1360w ,https://observatoriconflicteurba.org/media/posts/114/responsive/Cartell-2-2xl.png 1600w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Presentació &quot;La Ciudad Confinada&quot; de Juliana Marcús</title>
-        <author>
-            <name>OACU</name>
-        </author>
-        <link href="https://observatoriconflicteurba.org/presentacio-la-ciudad-confinada-de-juliana-marcus/"/>
-        <id>https://observatoriconflicteurba.org/presentacio-la-ciudad-confinada-de-juliana-marcus/</id>
-            <category term="Activitats"/>
-
-        <updated>2024-06-06T12:43:38+02:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/111/unnamed-1.jpg" alt="" width="1587" height="2245" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
