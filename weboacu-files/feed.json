@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://observatoriconflicteurba.org/seminari-or-time-space-status-migration-and-racial-capitalism/",
+            "url": "https://observatoriconflicteurba.org/seminari-or-time-space-status-migration-and-racial-capitalism/",
+            "title": "Seminari | Time, Space, Status: Migration and Racial Capitalism",
+            "summary": "🗓️ Seminari: Time, Space, Status: Migration and Racial Capitalism 🎙️ Bridget Anderson, prof. de Migracions (Univ. de Bristol) 📍 UB – Fac. Geografia i Història ⏰ 18 febrer, 12h 🔎 Capitalisme racial, fronteres i migracions",
+            "content_html": "<p>🗓️ <strong data-start=\"4\" data-end=\"16\">Seminari</strong>: <em data-start=\"18\" data-end=\"72\">Time, Space, Status: Migration and Racial Capitalism</em><br data-start=\"72\" data-end=\"75\">🎙️ <strong data-start=\"79\" data-end=\"99\">Bridget Anderson</strong>, prof. de Migracions (Univ. de Bristol)<br data-start=\"139\" data-end=\"142\">📍 UB – Fac. Geografia i Història<br data-start=\"175\" data-end=\"178\">⏰ 18 febrer, 12h<br data-start=\"194\" data-end=\"197\">🔎 Capitalisme racial, fronteres i migracions</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/129/Bridget-Anderson.-12_25-1.png\" alt=\"\" width=\"2340\" height=\"3307\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-xs.png 300w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-sm.png 480w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-md.png 768w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-lg.png 1024w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-xl.png 1360w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-2xl.png 1600w\"></figure>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-18T12:51:00+01:00",
+            "date_modified": "2025-12-18T12:51:00+01:00"
+        },
+        {
             "id": "https://observatoriconflicteurba.org/seminari-or-capitalisme-racial-fronteres-i-migracions-de-bridget-anderson/",
             "url": "https://observatoriconflicteurba.org/seminari-or-capitalisme-racial-fronteres-i-migracions-de-bridget-anderson/",
             "title": "Seminari | Capitalisme Racial, Fronteres i Migracions de Bridget Anderson",
@@ -145,20 +159,6 @@
             ],
             "date_published": "2024-10-08T17:53:10+02:00",
             "date_modified": "2024-10-08T17:53:20+02:00"
-        },
-        {
-            "id": "https://observatoriconflicteurba.org/presentacio-la-ciudad-confinada-de-juliana-marcus/",
-            "url": "https://observatoriconflicteurba.org/presentacio-la-ciudad-confinada-de-juliana-marcus/",
-            "title": "Presentació &quot;La Ciudad Confinada&quot; de Juliana Marcús",
-            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/111/unnamed-1.jpg\" alt=\"\" width=\"1587\" height=\"2245\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/111/responsive/unnamed-1-2xl.jpg 1600w\"></figure>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-                   "Activitats"
-            ],
-            "date_published": "2024-06-06T12:43:38+02:00",
-            "date_modified": "2024-06-06T12:43:38+02:00"
         }
     ]
 }
