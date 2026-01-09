@@ -1,5 +1,5 @@
   .hero{
-    height: 1640px;
+    height: 200vh;
   }
 
   .post .hero{
@@ -11,7 +11,7 @@
   }
 
   .hero__content{
-    bottom: 27px;
+    bottom: 37px;
   }
 
   .post .hero__content{
@@ -70,7 +70,7 @@
     background-size: cover;
     background-position: center;
     box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 52%);
-    height: 660px;
+    height: 100vh;
   }
 
   .bloc2{
@@ -79,6 +79,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 52%);
+    height: 50vh;
   }
 
   .bloc3{
@@ -87,6 +88,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 52%);
+    height: 50vh;
   }
 
 .boto{
