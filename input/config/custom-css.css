@@ -65,7 +65,7 @@
 }
 
   .bloc1{
-    background: url('../../raval2002.jpg');
+    background: url('../../media/files/venus_detalle.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -79,16 +79,17 @@
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 52%);
-    height: 50vh;
+    height: 100vh;
   }
 
   .bloc3{
-    background: url('../../media/files/venus_detalle.jpg');
+    background: url('../../raval2002.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     box-shadow: inset 0 0 0 1000px rgb(0 0 0 / 52%);
     height: 50vh;
+    display: none;
   }
 
 .boto{
