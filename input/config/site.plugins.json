@@ -8,5 +8,7 @@
     "coreLightboxGallery": true,
     "externalLinks": false,
     "metaTabColors": false,
-    "simpleLightboxGallery": false
+    "simpleLightboxGallery": false,
+    "emailAddressObfuscation": false,
+    "umamiAnalyticsIntegration": false
 }

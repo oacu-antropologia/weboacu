@@ -1117,7 +1117,7 @@
     {
         "path": "/marti-torra-merin/index.html",
         "type": "file",
-        "md5": "5d7bea5bb6ffca8529f2a7134b24f749"
+        "md5": "c0e6bc08b0c406da0fc3f1f4cdfbf329"
     },
     {
         "path": "martin-lundsteen",
@@ -5005,51 +5005,6 @@
         "md5": "70b0e0530c40563d0b7f8eb108d51cfa"
     },
     {
-        "path": "media/posts/60",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/60/marti_quadrada.jpg",
-        "type": "file",
-        "md5": "4bb2c1fa3ff363cbe59902140bb54f00"
-    },
-    {
-        "path": "media/posts/60/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/60/responsive/marti_quadrada-2xl.jpg",
-        "type": "file",
-        "md5": "a7f5d4a2d671d70b118eb41fa5051704"
-    },
-    {
-        "path": "/media/posts/60/responsive/marti_quadrada-lg.jpg",
-        "type": "file",
-        "md5": "fbc129766a44a29730b4ae18795d9eae"
-    },
-    {
-        "path": "/media/posts/60/responsive/marti_quadrada-md.jpg",
-        "type": "file",
-        "md5": "d83f2717b8465e878bbabbeed6c52123"
-    },
-    {
-        "path": "/media/posts/60/responsive/marti_quadrada-sm.jpg",
-        "type": "file",
-        "md5": "8a7c1e5fef4971d774fd229b7ab2a282"
-    },
-    {
-        "path": "/media/posts/60/responsive/marti_quadrada-xl.jpg",
-        "type": "file",
-        "md5": "a185182503159516ea684c164071e361"
-    },
-    {
-        "path": "/media/posts/60/responsive/marti_quadrada-xs.jpg",
-        "type": "file",
-        "md5": "13c4307d71fe998b554eeb04c790c8e4"
-    },
-    {
         "path": "media/posts/66",
         "type": "directory",
         "md5": false
@@ -7312,7 +7267,7 @@
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "40b27ff6375681df0af873967c2fb7c7"
+        "md5": "a657ac91c03e83b2ac3a21a5b55a60c0"
     },
     {
         "path": "sandra-anitua",
@@ -7417,7 +7372,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "e9b102e1a6e24e8ef06d78e03fab8ee9"
+        "md5": "14261b11c0ec01730b63c06737aa2b99"
     },
     {
         "path": "sitemap.xsl",
