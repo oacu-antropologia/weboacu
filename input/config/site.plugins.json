@@ -10,5 +10,6 @@
     "metaTabColors": false,
     "simpleLightboxGallery": false,
     "emailAddressObfuscation": false,
-    "umamiAnalyticsIntegration": false
+    "umamiAnalyticsIntegration": false,
+    "pagePrefetching": false
 }
