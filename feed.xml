@@ -3,19 +3,19 @@
     <title>weboacu</title>
     <link href="https://observatoriconflicteurba.org/feed.xml" rel="self" />
     <link href="https://observatoriconflicteurba.org" />
-    <updated>2026-03-03T09:32:15+01:00</updated>
+    <updated>2026-03-03T09:40:15+01:00</updated>
     <author>
         <name>OACU</name>
     </author>
     <id>https://observatoriconflicteurba.org</id>
 
     <entry>
-        <title>Informe PREV-CE</title>
+        <title>Documento | Informe PREV-CE</title>
         <author>
             <name>OACU</name>
         </author>
-        <link href="https://observatoriconflicteurba.org/informe-prev-ce-2/"/>
-        <id>https://observatoriconflicteurba.org/informe-prev-ce-2/</id>
+        <link href="https://observatoriconflicteurba.org/documento-or-informe-prev-ce/"/>
+        <id>https://observatoriconflicteurba.org/documento-or-informe-prev-ce/</id>
 
         <updated>2026-03-03T09:32:15+01:00</updated>
             <summary type="html">
@@ -26,7 +26,30 @@
         <content type="html">
             <![CDATA[
                 <p>El Informe PREV-CE resume los resultados de la investigación sobre el <i>Protocolo de prevención, detección e intervención en procesos de radicalización que conducen al extremismo violento en comunidades educativas de Catalunya r</i>ealizado durante el año 2024, <i>realizado en el marco del Proyecto Europeo: REACT: Research-Action against Antigypsyism and Anti-Muslim Discrimination: An Intersectional Approach to Deconstruct Institutional Racism in Schools. </i>El informe analiza de manera crítica la teorización, diseño, transmisión, recepción y despliegue del PREV-CE en el entorno del sistema educativo Catalán. El documento desglosa la transición desde modelos previos hacia el protocolo actual cuestionando cómo la política social educativa se ha convertido en una extensión de la vigilancia policial racializada con tintes islamófobos. A través de una revisión crítica de las teorías académicas que respaldan el protocolo y las interpretaciones que hacen de ellas los agentes educativos encargados de implementarlo, se denuncia que la conceptualización psicologizada, liberal y culturalizada de la <i>radicalización</i> y <i>extremismo violento </i>acaban por estigmatizar y securitizar la identidad y la expresión de la práctica islámica. La investigación concluye que el “preventivismo”, además de transformar a los docentes en informantes de la policía, ha dotado de falsa docilidad al protocolo PREV-CE y ha facilitado la securitización del espacio educativo –ahondando en la islamofobia institucional ya presente en el entorno educativo–– al promover categorías racializadas de sospecha (Ragazzi, 2006).</p>
-<p>Accede al informe <a href="https://observatoriconflicteurba.org/informe-prev-ce/">en este enlace</a>.</p>
+<p>Accede al informe <a href="#non-existing-page-with-id-131">en este enlace</a>.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Informe PREV-CE</title>
+        <author>
+            <name>OACU</name>
+        </author>
+        <link href="https://observatoriconflicteurba.org/informe-prev-ce/"/>
+        <id>https://observatoriconflicteurba.org/informe-prev-ce/</id>
+
+        <updated>2026-03-03T09:30:49+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    El Informe PREV-CE resume los resultados de la investigación sobre el Protocolo de prevención, detección e intervención en procesos de radicalización que conducen al extremismo violento en comunidades educativas de Catalunya realizado durante el año 2024, en el marco del Proyecto Europeo: REACT: Research-Action against&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>El Informe PREV-CE resume los resultados de la investigación sobre el Protocolo de prevención, detección e intervención en procesos de radicalización que conducen al extremismo violento en comunidades educativas de Catalunya realizado durante el año 2024, en el marco del Proyecto Europeo: REACT: Research-Action against Antigypsyism and Anti-Muslim Discrimination: An Intersectional Approach to Deconstruct Institutional Racism in Schools.</p>
+<p>A través de una revisión crítica de las teorías académicas que respaldan el protocolo y las interpretaciones que hacen de ellas los agentes educativos encargados de implementarlo, se denuncia que la conceptualización psicologizada, liberal y culturalizada de la radicalización y extremismo violento acaba por estigmatizar y securitizar la identidad y la expresión de la práctica islámica. La investigación concluye al fusionar la prevención pedagógica y la prevención criminal, materializada en la colaboración entre agentes educativos junto a policías, se ha dotado al PREV-CE de una falsa docilidad que no solo ha transformado a los profesores en informantes de la policía, sino que ha facilitado la securitización del entorno educativo ––ahondando la islamofobia institucional ya existente–– al promover categorías racializadas de sospecha (Ragazzi, 2006).</p>
+<p> </p>
+<div class="post__iframe"><iframe loading="lazy" style="width: 80%; height: auto; margin: auto;" src="/Informe_PREV-CE_2026.pdf"></iframe></div>
             ]]>
         </content>
     </entry>
@@ -220,24 +243,6 @@
         <content type="html">
             <![CDATA[
                 <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/121/Cartel_Sandro-Mezzadra-scaled.jpg" alt="" width="1812" height="2560" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/121/responsive/Cartel_Sandro-Mezzadra-scaled-2xl.jpg 1600w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>INCIVISMES | ¿Ciudad Sostenible?</title>
-        <author>
-            <name>OACU</name>
-        </author>
-        <link href="https://observatoriconflicteurba.org/incivismes-or-ciudad-sostenible/"/>
-        <id>https://observatoriconflicteurba.org/incivismes-or-ciudad-sostenible/</id>
-        <media:content url="https://observatoriconflicteurba.org/media/posts/118/Outlook-poxvnkuh-2xl.jpg" medium="image" />
-
-        <updated>2024-11-29T11:18:36+01:00</updated>
-            <summary></summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://observatoriconflicteurba.org/media/posts/118/Outlook-poxvnkuh-2xl.jpg" class="type:primaryImage" alt="" /></p>
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/118/Outlook-poxvnkuh.jpg" alt="" width="960" height="540" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-xs.jpg 300w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-sm.jpg 480w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-md.jpg 768w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-lg.jpg 1024w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-xl.jpg 1360w ,https://observatoriconflicteurba.org/media/posts/118/responsive/Outlook-poxvnkuh-2xl.jpg 1600w"></figure>
             ]]>
         </content>
     </entry>
