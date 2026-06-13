@@ -3,7 +3,7 @@
     <title>weboacu</title>
     <link href="https://observatoriconflicteurba.org/feed.xml" rel="self" />
     <link href="https://observatoriconflicteurba.org" />
-    <updated>2026-06-13T16:31:47+02:00</updated>
+    <updated>2026-06-13T19:48:55+02:00</updated>
     <author>
         <name>OACU</name>
     </author>
@@ -146,7 +146,7 @@ function renderProfile(profile) {
     const imageHtml = profile.picture
         ? `
             <img loading="lazy"                 class="profile-image"
-                src="/media/${encodeURIComponent(profile.picture)}"
+                src="/media/files/${encodeURIComponent(profile.picture)}"
                 alt="${escapeHtml(profile.name)}"
              data-is-external-image="true">
         `
