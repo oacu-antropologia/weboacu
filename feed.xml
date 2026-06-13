@@ -3,12 +3,276 @@
     <title>weboacu</title>
     <link href="https://observatoriconflicteurba.org/feed.xml" rel="self" />
     <link href="https://observatoriconflicteurba.org" />
-    <updated>2026-06-12T11:59:20+02:00</updated>
+    <updated>2026-06-13T16:31:47+02:00</updated>
     <author>
         <name>OACU</name>
     </author>
     <id>https://observatoriconflicteurba.org</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>OACU</name>
+        </author>
+        <link href="https://observatoriconflicteurba.org/test-3/"/>
+        <id>https://observatoriconflicteurba.org/test-3/</id>
+
+        <updated>2026-06-13T16:31:47+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Loading...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div id="app" class="container-searcher">Loading...</div>
+<p>
+<script>
+let profiles = [];
+
+/*
+ * Force fresh fetch every page load
+ */
+async function loadProfiles() {
+    const timestamp = Date.now();
+
+    const response = await fetch(`/profiles.json?t=${timestamp}`, {
+        cache: "no-store"
+    });
+
+    if (!response.ok) {
+        throw new Error("Unable to load profiles.json");
+    }
+
+    profiles = await response.json();
+
+    profiles.sort((a, b) =>
+        a.name.localeCompare(b.name)
+    );
+
+    renderCurrentView();
+}
+
+/*
+ * Escape HTML
+ */
+function escapeHtml(str) {
+    return String(str || "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
+
+/*
+ * Render profile list page
+ */
+function renderList() {
+    const app = document.getElementById("app");
+
+    app.innerHTML = `
+        <div class="search-container">
+            <input
+                id="searchInput"
+                type="text"
+                placeholder="Search by name..."
+                autocomplete="off"
+                autofocus
+            >
+        </div>
+
+        <div id="results" class="member-list"></div>
+    `;
+
+    const input = document.getElementById("searchInput");
+
+    updateResults("");
+
+    input.addEventListener("input", () => {
+        updateResults(input.value);
+    });
+
+    /*
+     * Ensures cursor is immediately available
+     * especially on mobile browsers.
+     */
+    setTimeout(() => input.focus(), 50);
+}
+
+/*
+ * Update only results, not the search field
+ */
+function updateResults(filter) {
+    const results = document.getElementById("results");
+
+    const filtered = profiles.filter(member =>
+        member.name.toLowerCase().includes(
+            filter.toLowerCase()
+        )
+    );
+
+    if (filtered.length === 0) {
+        results.innerHTML = `
+            <div class="no-results">
+                No matching profiles found.
+            </div>
+        `;
+        return;
+    }
+
+    results.innerHTML = filtered.map(member => `
+        <a
+            class="member-item"
+            href="#${encodeURIComponent(member.id)}"
+        >
+            ${escapeHtml(member.name)}
+        </a>
+    `).join("");
+}
+
+/*
+ * Render profile page
+ */
+function renderProfile(profile) {
+    const app = document.getElementById("app");
+
+    const descriptionHtml = (profile.description || "")
+        .split(/\n\s*\n/)
+        .filter(p => p.trim())
+        .map(p => `<p>${escapeHtml(p.trim())}</p>`)
+        .join("");
+
+    const imageHtml = profile.picture
+        ? `
+            <img loading="lazy"                 class="profile-image"
+                src="/media/${encodeURIComponent(profile.picture)}"
+                alt="${escapeHtml(profile.name)}"
+             data-is-external-image="true">
+        `
+        : "";
+
+    const linksHtml = (profile.links || []).length
+        ? `
+            <div class="links">
+                <h3>Links</h3>
+                <ul>
+                    ${profile.links.map(link => `
+                        <li>
+                            <a
+                                href="${link.url}"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                ${escapeHtml(link.title)}
+                            </a>
+                        </li>
+                    `).join("")}
+                </ul>
+            </div>
+        `
+        : "";
+
+    app.innerHTML = `
+        <div class="profile">
+
+            <a class="back-link" href="#">
+                ← Back to list
+            </a>
+
+            <div class="profile-header">
+
+                ${imageHtml}
+
+                <div class="profile-content">
+
+                    <h1 class="profile-name">
+                        ${escapeHtml(profile.name)}
+                    </h1>
+
+                    <div class="profile-description">
+                        ${descriptionHtml}
+                    </div>
+
+                    ${linksHtml}
+
+                </div>
+
+            </div>
+
+        </div>
+    `;
+}
+
+/*
+ * Not found page
+ */
+function renderNotFound() {
+    document.getElementById("app").innerHTML = `
+        <div class="not-found">
+            <h2>Profile not found</h2>
+
+            <p>
+                <a href="#">
+                    Return to profile list
+                </a>
+            </p>
+        </div>
+    `;
+}
+
+/*
+ * Simple router based on URL hash
+ */
+function renderCurrentView() {
+
+    const hash = decodeURIComponent(
+        window.location.hash.replace("#", "")
+    );
+
+    if (!hash) {
+        renderList();
+        return;
+    }
+
+    const profile = profiles.find(
+        p => String(p.id) === hash
+    );
+
+    if (!profile) {
+        renderNotFound();
+        return;
+    }
+
+    renderProfile(profile);
+}
+
+/*
+ * React to hash changes
+ */
+window.addEventListener(
+    "hashchange",
+    renderCurrentView
+);
+
+/*
+ * Initial load
+ */
+loadProfiles().catch(error => {
+    console.error(error);
+
+    document.getElementById("app").innerHTML = `
+        <div class="not-found">
+            <h2>Error</h2>
+            <p>Failed to load profiles.json</p>
+        </div>
+    `;
+});
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>(DE)TOUR DE FORCE – Performance itinerant</title>
         <author>
@@ -246,36 +510,6 @@
             <![CDATA[
                 <p>🗓️ <strong data-start="4" data-end="16">Seminari</strong>: <em data-start="18" data-end="72">Time, Space, Status: Migration and Racial Capitalism</em><br data-start="72" data-end="75">🎙️ <strong data-start="79" data-end="99">Bridget Anderson</strong>, prof. de Migracions (Univ. de Bristol)<br data-start="139" data-end="142">📍 UB – Fac. Geografia i Història<br data-start="175" data-end="178">⏰ 18 febrer, 12h<br data-start="194" data-end="197">🔎 Capitalisme racial, fronteres i migracions</p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/129/Bridget-Anderson.-12_25-1.png" alt="" width="2340" height="3307" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-xs.png 300w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-sm.png 480w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-md.png 768w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-lg.png 1024w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-xl.png 1360w ,https://observatoriconflicteurba.org/media/posts/129/responsive/Bridget-Anderson.-12_25-1-2xl.png 1600w"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Seminari | Capitalisme Racial, Fronteres i Migracions de Bridget Anderson</title>
-        <author>
-            <name>OACU</name>
-        </author>
-        <link href="https://observatoriconflicteurba.org/seminari-or-capitalisme-racial-fronteres-i-migracions-de-bridget-anderson/"/>
-        <id>https://observatoriconflicteurba.org/seminari-or-capitalisme-racial-fronteres-i-migracions-de-bridget-anderson/</id>
-        <media:content url="https://observatoriconflicteurba.org/media/posts/128/Cartel_Bridget-Anderson_e-mail-1-2.png" medium="image" />
-            <category term="Seminari de recerca"/>
-            <category term="Activitats"/>
-
-        <updated>2025-10-06T11:25:00+02:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://observatoriconflicteurba.org/media/posts/128/Cartel_Bridget-Anderson_e-mail-1-2.png" alt="" />
-                    📢 Seminari “Capitalisme Racial, Fronteres i Migracions” amb Bridget Anderson (Univ. Bristol) 🗓️ 15 d’octubre, 16h 📍 Sala de Juntes, Facultat de Geografia i Història, UB 🔍 Reflexions sobre migració i capitalisme racial El títol del seminari és: ‘Time, Space, Status: Migration and Racial Capitalism’ Bridget&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://observatoriconflicteurba.org/media/posts/128/Cartel_Bridget-Anderson_e-mail-1-2.png" class="type:primaryImage" alt="" /></p>
-                <p>📢 Seminari “Capitalisme Racial, Fronteres i Migracions” amb Bridget Anderson (Univ. Bristol)<br>🗓️ 15 d’octubre, 16h<br>📍 Sala de Juntes, Facultat de Geografia i Història, UB<br>🔍 Reflexions sobre migració i capitalisme racial</p>
-<p>El títol del seminari és: <strong>‘Time, Space, Status: Migration and Racial Capitalism’</strong></p>
-<p>Bridget Anderson és la directora de <u><a title="https://migration.bristol.ac.uk/" id="m_-1554660984300658696m_4899795124841690969OWA32084422-0aeb-27d2-1d60-5075b68ca77c" href="https://migration.bristol.ac.uk/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://migration.bristol.ac.uk/&amp;source=gmail&amp;ust=1759908125920000&amp;usg=AOvVaw2kom8GWIqv1fj2xswqPCIS" rel="noopener">Migration Mobilities Bristol</a></u> i professora de migració, mobilitats i ciutadania. Està interessada en la relació entre migració, raça i nació, històricament i en el món contemporani. Pren com a punt de partida que el "migrant" i el "ciutadà" i les diferències entre ells es construeixen en la llei i en la pràctica social i política. Està especialment interessada en com les lleis d'immigració fan tipus particulars de relacions laborals, i la seva recerca actual inclou el projecte finançat per la UE PRIME – Protecting Irregular Migrants in Europe. El seu recent volum editat: Rethinking Migration: Challenging Borders, Citizenship, Race és publicat per Bristol University Press i és d'accés obert.</p>
-<p><strong>Abstract: </strong>By attending to temporality, migrantisation, and the politics of precarity, this talk explores how racial capitalism governs through time, space, and status. It argues that migration should be analysed, not as a disruption to national labour markets, but as a constitutive element of global racial capitalism, and that it is crucial to reconfigure political alliances between citizens and non-citizens. I will begin by asking, if humans have always moved, when does movement become migration? The answers show how political this seemingly neutral category and I argue that public understandings of the migrant as poor and racialised reflect the logics of immigration regimes that use race and class to govern movement. I will then consider precarity, thinking with and against migration, focussing on how both citizens and migrants are subject to precarious work exacerbated by controls over time and mobility. These controls are exercised using different policy frameworks for both groups, but all experience a sense of lack of control over their lives and futures. Through attending to immigration controls we can see that skill is an important factor in inducing precarity, so I follow that clue to explore what migration tells us about the role of ideas of skill in labour markets more generally. Finding similarities and shared interests across differences is necessary to the deeply embedded and highly affective tropes that are powerfully at work in our politics and repositioning the migrant as a co-worker rather than a competitor for privileges of membership.</p>
-<figure class="post__image"><img loading="lazy"  src="https://observatoriconflicteurba.org/media/posts/128/Cartel_Bridget-Anderson_e-mail-1.png" alt="" width="2340" height="3307" sizes="100vw" srcset="https://observatoriconflicteurba.org/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-xs.png 300w ,https://observatoriconflicteurba.org/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-sm.png 480w ,https://observatoriconflicteurba.org/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-md.png 768w ,https://observatoriconflicteurba.org/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-lg.png 1024w ,https://observatoriconflicteurba.org/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-xl.png 1360w ,https://observatoriconflicteurba.org/media/posts/128/responsive/Cartel_Bridget-Anderson_e-mail-1-2xl.png 1600w"></figure>
-<p> </p>
             ]]>
         </content>
     </entry>
