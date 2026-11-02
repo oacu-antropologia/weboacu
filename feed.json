@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://observatoriconflicteurba.org/incivismes-dialegs-sobre-la-destruccio-i-lentriment-de-les-ciutats/",
+            "url": "https://observatoriconflicteurba.org/incivismes-dialegs-sobre-la-destruccio-i-lentriment-de-les-ciutats/",
+            "title": "INCIVISMES: diàlegs sobre la destrucció i l’entriment de les ciutats",
+            "summary": "El proper dimarts 3 de novembre a les 18.30 h, l’Aula 209 de la Universitat de Barcelona (Campus Raval, Montalegre 6) acollirà una nova sessió del cicle INCIVISMES: Diàlegs sobre la destrucció i l’entristiment de les ciutats. La sessió, sota el títol «Ocurrencia, excepcionalidad y&hellip;",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/147/Carlos-Crespo-1126.png\" alt=\"\" width=\"2806\" height=\"1984\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/147/responsive/Carlos-Crespo-1126-xs.png 300w ,https://observatoriconflicteurba.org/media/posts/147/responsive/Carlos-Crespo-1126-sm.png 480w ,https://observatoriconflicteurba.org/media/posts/147/responsive/Carlos-Crespo-1126-md.png 768w ,https://observatoriconflicteurba.org/media/posts/147/responsive/Carlos-Crespo-1126-lg.png 1024w ,https://observatoriconflicteurba.org/media/posts/147/responsive/Carlos-Crespo-1126-xl.png 1360w ,https://observatoriconflicteurba.org/media/posts/147/responsive/Carlos-Crespo-1126-2xl.png 1600w\"></figure>\n<div>\n<p>El proper <strong>dimarts 3 de novembre a les 18.30 h</strong>, l’<strong>Aula 209 de la Universitat de Barcelona (Campus Raval, Montalegre 6)</strong> acollirà una nova sessió del cicle <strong>INCIVISMES: Diàlegs sobre la destrucció i l’entristiment de les ciutats</strong>.</p>\n<p>La sessió, sota el títol <strong>«Ocurrencia, excepcionalidad y desmadre en la mercantilización digital de lo urbano»</strong>, anirà a càrrec de <strong>Carlos Alberto Crespo Sánchez</strong>, de la <strong>Universidad de Guadalajara (Mèxic)</strong>.</p>\n<p>L’activitat està organitzada en el marc de les iniciatives de l’<strong>OACU (Observatori d’Antropologia del Conflicte Urbà)</strong> i <strong>CRITS</strong>.</p>\n</div>",
+            "author": {
+                "name": "OACU"
+            },
+            "tags": [
+                   "Incivismes",
+                   "Activitats"
+            ],
+            "date_published": "2026-11-02T17:18:26+01:00",
+            "date_modified": "2026-11-02T17:18:42+01:00"
+        },
+        {
             "id": "https://observatoriconflicteurba.org/taula-rodona-ethnography-in-times-of-truth-crises/",
             "url": "https://observatoriconflicteurba.org/taula-rodona-ethnography-in-times-of-truth-crises/",
             "title": "Taula rodona: Ethnography in Times of Truth Crises",
@@ -140,22 +156,6 @@
             ],
             "date_published": "2026-04-21T15:38:04+02:00",
             "date_modified": "2026-04-21T15:38:04+02:00"
-        },
-        {
-            "id": "https://observatoriconflicteurba.org/presentacio-del-llibre-barcelona-breaking-origen-i-trajectoria-duna-cultura-urbana/",
-            "url": "https://observatoriconflicteurba.org/presentacio-del-llibre-barcelona-breaking-origen-i-trajectoria-duna-cultura-urbana/",
-            "title": "Presentació del llibre Barcelona Breaking: Origen i trajectòria d’una cultura urbana",
-            "summary": "📚 Presentació del llibre Barcelona Breaking: Origen i trajectòria d’una cultura urbana El proper 10 de març de 2026, a les 18:30 h, es presenta a la Universitat de Barcelona (Campus Raval, Sala Jane Addams) un nou volum dedicat a la història i evolució del&hellip;",
-            "content_html": "<div>\n<p>📚 <strong>Presentació del llibre <em>Barcelona Breaking: Origen i trajectòria d’una cultura urbana</em></strong></p>\n<p>El proper <strong>10 de març de 2026</strong>, a les <strong>18:30 h</strong>, es presenta a la <strong>Universitat de Barcelona (Campus Raval, Sala Jane Addams)</strong> un nou volum dedicat a la història i evolució del breaking a la ciutat.</p>\n<p>Hi intervindran:<br>• Manuel Delgado<br>• Oriol Romani<br>• Livia Motterle<br>• Carlos Peña</p>\n<p>Un acte per entendre millor l’arrelament i el desenvolupament d’aquesta cultura urbana a Barcelona.</p>\n<p>Organitzen: GRECS (UB), OACU, CPC i MANIFEST.</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://observatoriconflicteurba.org/media/posts/133/Break-dance-3_26.png\" alt=\"\" width=\"1016\" height=\"1564\" sizes=\"100vw\" srcset=\"https://observatoriconflicteurba.org/media/posts/133/responsive/Break-dance-3_26-xs.png 300w ,https://observatoriconflicteurba.org/media/posts/133/responsive/Break-dance-3_26-sm.png 480w ,https://observatoriconflicteurba.org/media/posts/133/responsive/Break-dance-3_26-md.png 768w ,https://observatoriconflicteurba.org/media/posts/133/responsive/Break-dance-3_26-lg.png 1024w ,https://observatoriconflicteurba.org/media/posts/133/responsive/Break-dance-3_26-xl.png 1360w ,https://observatoriconflicteurba.org/media/posts/133/responsive/Break-dance-3_26-2xl.png 1600w\"></figure>\n</div>",
-            "author": {
-                "name": "OACU"
-            },
-            "tags": [
-                   "Xerrades",
-                   "Activitats"
-            ],
-            "date_published": "2026-03-06T11:01:51+01:00",
-            "date_modified": "2026-03-06T11:01:51+01:00"
         }
     ]
 }
